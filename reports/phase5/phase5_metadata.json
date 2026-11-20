@@ -1,0 +1,74 @@
+{
+  "shap_sample_n": 4000,
+  "shap_random_seed": 0,
+  "models": {
+    "poisson": "poisson_station.joblib",
+    "gbm": "gbm_full_poisson.joblib"
+  },
+  "cases": [
+    {
+      "story": "Bay/College \u2014 Monday 8am commute peak",
+      "start_station_id": 7006,
+      "hour_ts": "2024-09-23 08:00:00"
+    },
+    {
+      "story": "Bay/College \u2014 quiet Tuesday 2am",
+      "start_station_id": 7006,
+      "hour_ts": "2024-09-24 02:00:00"
+    },
+    {
+      "story": "Quieter park station \u2014 rainy midday",
+      "start_station_id": 7629,
+      "hour_ts": "2024-09-09 12:00:00"
+    }
+  ],
+  "top_gbm_features": [
+    {
+      "feature": "hour_of_day",
+      "mean_abs_shap": 0.6848190928971379
+    },
+    {
+      "feature": "roll_mean_168h",
+      "mean_abs_shap": 0.6406195742820028
+    },
+    {
+      "feature": "roll_mean_24h",
+      "mean_abs_shap": 0.4526551435768835
+    },
+    {
+      "feature": "lag_1h",
+      "mean_abs_shap": 0.3361304804049286
+    },
+    {
+      "feature": "lag_168h",
+      "mean_abs_shap": 0.25326359710978674
+    }
+  ],
+  "top_poisson_shared": [
+    {
+      "label": "weekday hour 03:00",
+      "coefficient": -2.0334504373033484,
+      "multiplier": 0.13088313707732704
+    },
+    {
+      "label": "weekday hour 04:00",
+      "coefficient": -1.9560608791749794,
+      "multiplier": 0.1414143735236342
+    },
+    {
+      "label": "weekend/holiday hour 05:00",
+      "coefficient": -1.5793129135613233,
+      "multiplier": 0.20611666953186508
+    },
+    {
+      "label": "weekday hour 02:00",
+      "coefficient": -1.5690009658495114,
+      "multiplier": 0.20825313045537008
+    },
+    {
+      "label": "weekend/holiday hour 04:00",
+      "coefficient": -1.5243484645509275,
+      "multiplier": 0.217762890898178
+    }
+  ]
+}

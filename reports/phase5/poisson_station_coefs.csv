@@ -1,0 +1,848 @@
+feature,group,coefficient,multiplier,label,station_name
+station__start_station_id_7076,station,1.6046191663672649,4.975964227318189,station 7076 (York St / Queens Quay W),York St / Queens Quay W
+station__start_station_id_7006,station,1.5703797250912794,4.808473745281228,station 7006 (Bay St / College St (East Side)),Bay St / College St (East Side)
+station__start_station_id_7033,station,1.4941614278542135,4.455598644897707,station 7033 (Union Station),Union Station
+station__start_station_id_7030,station,1.4665945757654226,4.334449340562302,station 7030 (Bay St / Wellesley St W),Bay St / Wellesley St W
+station__start_station_id_7016,station,1.438128655856901,4.21280482828018,station 7016 (Bay St / Queens Quay W (Ferry Terminal)),Bay St / Queens Quay W (Ferry Terminal)
+station__start_station_id_7078,station,1.3995347743063822,4.053313822402788,station 7078 (College St / Major St),College St / Major St
+station__start_station_id_7542,station,1.391469561763655,4.020754460502044,station 7542 (Queen St W / John St),Queen St W / John St
+station__start_station_id_7168,station,1.3912895050524463,4.020030561850668,station 7168 (Queens Quay / Yonge St),Queens Quay / Yonge St
+station__start_station_id_7689,station,-1.387633292645459,0.24966549111083042,station 7689 (nan),nan
+station__start_station_id_7720,station,1.3844795158427794,3.992747202235129,station 7720 (nan),nan
+station__start_station_id_7248,station,1.342889807475162,3.8300957675996816,station 7248 (Baldwin Ave / Spadina Ave - SMART),Baldwin Ave / Spadina Ave - SMART
+station__start_station_id_7875,station,-1.330065995575594,0.26445980754667453,station 7875 (Oakdale Community Centre),Oakdale Community Centre
+station__start_station_id_7871,station,-1.327845365735054,0.2650477274215495,station 7871 (Jane St / Lawrence Ave W),Jane St / Lawrence Ave W
+station__start_station_id_7877,station,-1.3260855528382904,0.26551457249002725,station 7877 (Jane St / Yorkwoods Gt),Jane St / Yorkwoods Gt
+station__start_station_id_7853,station,-1.3254519835470948,0.26568284767088646,station 7853 (nan),nan
+station__start_station_id_7199,station,1.311155749418733,3.7104595965509017,station 7199 (College St / Markham St),College St / Markham St
+station__start_station_id_7007,station,1.3101980239523972,3.7069076960477525,station 7007 (College St / Huron St),College St / Huron St
+station__start_station_id_7882,station,-1.3053200338944029,0.27108576452864797,station 7882 (Tangiers Rd / Finch Ave W),Tangiers Rd / Finch Ave W
+station__start_station_id_7038,station,1.2996351785126379,3.667958273503701,station 7038 (Dundas St W / Yonge St),Dundas St W / Yonge St
+station__start_station_id_7923,station,-1.2944353213651947,0.2740525722795779,station 7923 (nan),nan
+station__start_station_id_7876,station,-1.2889271891208975,0.2755662550449753,station 7876 (Jane St / Yewtree Blvd),Jane St / Yewtree Blvd
+station__start_station_id_7814,station,-1.2849060590135402,0.2766765736814508,station 7814 (Fenwood Ht / Kingston Rd),Fenwood Ht / Kingston Rd
+station__start_station_id_7462,station,1.2834970162323294,3.6092392506031272,station 7462 (Richmond St E / Yonge St),Richmond St E / Yonge St
+station__start_station_id_7920,station,-1.282733319908881,0.2772783732323926,station 7920 (75 Tandridge Cres),75 Tandridge Cres
+station__start_station_id_7886,station,-1.2818026885625773,0.27753653728732336,station 7886 (Jane St / Finch Ave W),Jane St / Finch Ave W
+station__start_station_id_7418,station,1.2809722087186817,3.6001381103729875,station 7418 (College Park - Yonge St Entrance),College Park - Yonge St Entrance
+station__start_station_id_7000,station,1.2802684161390803,3.5976052512936283,station 7000 (Fort York  Blvd / Capreol Ct),Fort York  Blvd / Capreol Ct
+station__start_station_id_7207,station,1.2768761173277272,3.5854217759540408,station 7207 (Dundas St W / Crawford St),Dundas St W / Crawford St
+station__start_station_id_7002,station,1.275845716632152,3.581729257575623,station 7002 (St. George St / Bloor St W),St. George St / Bloor St W
+station__start_station_id_7015,station,1.2744846179653324,3.5768574868906367,station 7015 (King St W / Bay St (West Side)),King St W / Bay St (West Side)
+station__start_station_id_7863,station,-1.2691572496840313,0.28106839247164234,station 7863 (Jane St / Queens Dr),Jane St / Queens Dr
+station__start_station_id_7017,station,1.268504505966971,3.555531308539437,station 7017 (Widmer St / Adelaide St W),Widmer St / Adelaide St W
+station__start_station_id_7682,station,1.2679219191622129,3.5534605061848112,station 7682 (nan),nan
+station__start_station_id_7861,station,-1.267906211345236,0.2814202398478369,station 7861 (Emmett Ave),Emmett Ave
+station__start_station_id_7808,station,-1.2657302452477268,0.282033267470679,station 7808 (nan),nan
+station__start_station_id_7324,station,1.2646125042065515,3.5417200685465704,station 7324 (King St W / Charlotte St (West Side)),King St W / Charlotte St (West Side)
+station__start_station_id_7758,station,-1.2627447033930603,0.28287654779309124,station 7758 (Driftwood Ave / Finch Corridor Trail),Driftwood Ave / Finch Corridor Trail
+station__start_station_id_7100,station,1.256532899033914,3.513219659827663,station 7100 (Dundas St E / Regent Park Blvd),Dundas St E / Regent Park Blvd
+station__start_station_id_7835,station,-1.254480268994561,0.28522404949073815,station 7835 (nan),nan
+station__start_station_id_7880,station,-1.2537543412285712,0.28543117671839857,station 7880 (Lindylou Rd / Lanyard Rd),Lindylou Rd / Lanyard Rd
+station__start_station_id_7260,station,1.249039555423112,3.4869922858216404,station 7260 (Spadina Ave / Adelaide St W),Spadina Ave / Adelaide St W
+station__start_station_id_7807,station,-1.2461133545451022,0.2876205062055483,station 7807 (nan),nan
+station__start_station_id_7812,station,-1.245823461970812,0.28770389734116236,station 7812 (Bellamy Rd S / Kingston Rd),Bellamy Rd S / Kingston Rd
+station__start_station_id_7774,station,-1.2453728445773369,0.28783357093586925,station 7774 (Grenoble Dr / Deauville Ln),Grenoble Dr / Deauville Ln
+station__start_station_id_7879,station,-1.2437311497661336,0.28830649390714175,station 7879 (Weston Rd / Lanyard Rd),Weston Rd / Lanyard Rd
+station__start_station_id_7801,station,-1.2431908350228018,0.2884623122480808,station 7801 (Parkcrest Dr / Kingston Rd),Parkcrest Dr / Kingston Rd
+station__start_station_id_7022,station,1.2379536171196037,3.448549187100799,station 7022 (Simcoe St / Queen St W),Simcoe St / Queen St W
+station__start_station_id_7825,station,-1.2366293684359622,0.2903612712364746,station 7825 (Kingston Rd / Scarborough Golf Club Rd),Kingston Rd / Scarborough Golf Club Rd
+station__start_station_id_7047,station,1.2353760811816659,3.4396718733497575,station 7047 (University Ave / Gerrard St W (East Side)),University Ave / Gerrard St W (East Side)
+station__start_station_id_7919,station,-1.2300665089231755,0.2922731382627202,station 7919 (Armel Ct / Albion Rd),Armel Ct / Albion Rd
+station__start_station_id_7862,station,-1.228653191365388,0.2926865050611664,station 7862 (nan),nan
+station__start_station_id_7921,station,-1.2285116126442082,0.29272794617578035,station 7921 (Islington Ave / Finch Ave W),Islington Ave / Finch Ave W
+station__start_station_id_7870,station,-1.226707610686709,0.2932565045805485,station 7870 (nan),nan
+station__start_station_id_7878,station,-1.2237805163390865,0.2941161515576342,station 7878 (nan),nan
+station__start_station_id_7809,station,-1.2227658211587549,0.29441474126222533,station 7809 (Firvalley Ct / Warden Ave),Firvalley Ct / Warden Ave
+station__start_station_id_7837,station,-1.2200471612382648,0.29521624383208667,station 7837 (Ling Rd / Morningside Ave),Ling Rd / Morningside Ave
+station__start_station_id_7740,station,-1.2190356130968154,0.2955150203628064,station 7740 (Sharpe St / Park St (Sandown Park)),Sharpe St / Park St (Sandown Park)
+station__start_station_id_7767,station,-1.2187719952012885,0.29559293367979217,station 7767 (nan),nan
+station__start_station_id_7775,station,-1.2183596150158666,0.2957148554859332,station 7775 (nan),nan
+station__start_station_id_7624,station,-1.2183068739645289,0.29573045220959787,station 7624 (Guildwood GO Station (South)),Guildwood GO Station (South)
+station__start_station_id_7253,station,1.2160803661955548,3.3739371836949363,station 7253 (John St  / Mercer St - SMART),John St  / Mercer St - SMART
+station__start_station_id_7613,station,-1.2151486212481717,0.29666592015811977,station 7613 (Livingston Rd (Highland Creek Trail)),Livingston Rd (Highland Creek Trail)
+station__start_station_id_7001,station,1.2149696163141928,3.370191663921337,station 7001 (Wellesley Station Green P),Wellesley Station Green P
+station__start_station_id_7285,station,1.2144485089805899,3.368435889842727,station 7285 (Spadina Ave / Harbord St - SMART),Spadina Ave / Harbord St - SMART
+station__start_station_id_7851,station,-1.213226559641155,0.2972366786741676,station 7851 (nan),nan
+station__start_station_id_7927,station,1.2107805381613055,3.356103197097721,station 7927 (Strachan Ave / East Liberty St - SMART),Strachan Ave / East Liberty St - SMART
+station__start_station_id_7027,station,1.2095835639836483,3.3520884314979633,station 7027 (Beverley  St / Dundas St W),Beverley  St / Dundas St W
+station__start_station_id_7803,station,-1.2075560804360845,0.2989269408487274,station 7803 (nan),nan
+station__start_station_id_7834,station,-1.205986941088524,0.29939636707492184,station 7834 (nan),nan
+station__start_station_id_7738,station,-1.205145573258266,0.29964837554771934,station 7738 (nan),nan
+station__start_station_id_7587,station,-1.204337238589873,0.29989068964024895,station 7587 (Dufferin St / Finch Hydro Recreational Trail),Dufferin St / Finch Hydro Recreational Trail
+station__start_station_id_7868,station,-1.2037593423527908,0.300064045427332,station 7868 (nan),nan
+station__start_station_id_7869,station,-1.2020160329271692,0.30058760613757884,station 7869 (nan),nan
+station__start_station_id_7471,station,-1.2008512881303235,0.30093791796015656,station 7471 (2300 Lakeshore Blvd W),2300 Lakeshore Blvd W
+station__start_station_id_7849,station,-1.1985259056238302,0.30163852800758895,station 7849 (nan),nan
+station__start_station_id_7136,station,-1.1984243391754796,0.30166916591742987,station 7136 (Queen St W / Close Ave),Queen St W / Close Ave
+station__start_station_id_7399,station,1.195239668302167,3.3043496234708765,station 7399 (Lower Jarvis / Queens Quay E),Lower Jarvis / Queens Quay E
+station__start_station_id_7828,station,-1.1925859671783208,0.3034355741848442,station 7828 (Wakunda Pl / O'Connor Dr),Wakunda Pl / O'Connor Dr
+station__start_station_id_7432,station,1.1913127213404509,3.2913990624820544,station 7432 (Frederick St / King St E),Frederick St / King St E
+station__start_station_id_7742,station,-1.1889880632167649,0.3045292725703388,station 7742 (nan),nan
+station__start_station_id_7759,station,-1.1881908415191067,0.3047721467134088,station 7759 (nan),nan
+station__start_station_id_7829,station,-1.187333015591107,0.3050337003306899,station 7829 (nan),nan
+station__start_station_id_7735,station,-1.1868209440185462,0.3051899394166855,station 7735 (Birchcliff Ave / Kingston Rd),Birchcliff Ave / Kingston Rd
+station__start_station_id_7831,station,-1.1821348131781764,0.30662345560284926,station 7831 (nan),nan
+station__start_station_id_7756,station,-1.181524077867267,0.3068107785708919,station 7756 (Tobermory Dr / Finch Corridor Trail),Tobermory Dr / Finch Corridor Trail
+station__start_station_id_7902,station,-1.1796781746886735,0.3073776445912174,station 7902 (nan),nan
+station__start_station_id_7856,station,-1.1777677732710392,0.3079654205444368,station 7856 (Scarlett Rd / Old Scarlett Rd ),Scarlett Rd / Old Scarlett Rd 
+station__start_station_id_7734,station,-1.1742633504105244,0.30904655487392174,station 7734 (nan),nan
+station__start_station_id_7645,station,-1.1726161639740966,0.30955603165376183,station 7645 (University of Toronto Scarborough),University of Toronto Scarborough
+station__start_station_id_7800,station,-1.1705212479728162,0.3102052052824598,station 7800 (Brimley Rd / McCowan District Park),Brimley Rd / McCowan District Park
+station__start_station_id_7089,station,1.169819595330368,3.221411428439073,station 7089 (Church St  / Wood St),Church St  / Wood St
+station__start_station_id_7873,station,-1.1673256755918018,0.3111980740159538,station 7873 (nan),nan
+station__start_station_id_7806,station,-1.1671866912466957,0.3112413286822603,station 7806 (nan),nan
+station__start_station_id_7918,station,-1.1647363170738325,0.312004921557649,station 7918 (Albion Rd/ Arcot Blvd),Albion Rd/ Arcot Blvd
+station__start_station_id_7019,station,1.1642149606396475,3.20340709517876,station 7019 (Temperance St. Station),Temperance St. Station
+station__start_station_id_7830,station,-1.1641765232753865,0.3121796288732952,station 7830 (nan),nan
+station__start_station_id_7217,station,1.1599424864580954,3.189749817030777,station 7217 (Soho St / Queen St W),Soho St / Queen St W
+station__start_station_id_7693,station,1.1593927363098788,3.187996733519203,station 7693 (nan),nan
+station__start_station_id_7860,station,-1.1593749478847757,0.31368218733380154,station 7860 (Cruickshank Park),Cruickshank Park
+station__start_station_id_7597,station,-1.158047157106207,0.3140989682872649,station 7597 (Yonge St / Golfdale Rd),Yonge St / Golfdale Rd
+station__start_station_id_7612,station,-1.157823621992773,0.31416918828379553,station 7612 (Livingston Rd / Guildwood Pkwy),Livingston Rd / Guildwood Pkwy
+station__start_station_id_7859,station,-1.157298077716912,0.3143343414962115,station 7859 (Mallaby Park ),Mallaby Park 
+station__start_station_id_7281,station,1.1565455948875352,3.1789329650030336,station 7281 (Charles St W / Balmuto St - SMART),Charles St W / Balmuto St - SMART
+station__start_station_id_7743,station,-1.1551994408729642,0.31499470781877137,station 7743 (nan),nan
+station__start_station_id_7043,station,1.1548248812371742,3.173467635138925,station 7043 (Queens Quay W / Lower Simcoe St),Queens Quay W / Lower Simcoe St
+station__start_station_id_7298,station,1.1541564063587195,3.1713469606350313,station 7298 (Bathurst St / Adelaide St W),Bathurst St / Adelaide St W
+station__start_station_id_7736,station,-1.1532354959709405,0.3156139479470648,station 7736 (Birchmount Rd / Kingston Rd),Birchmount Rd / Kingston Rd
+station__start_station_id_7678,station,-1.1510311048263522,0.31631045194059987,station 7678 (York University Station (South) - SMART),York University Station (South) - SMART
+station__start_station_id_7631,station,-1.150830642540293,0.316373866612813,station 7631 (Florence Gell Park),Florence Gell Park
+station__start_station_id_7811,station,-1.1500682345323867,0.31661516455426414,station 7811 (Midland Ave / Kingston Rd),Midland Ave / Kingston Rd
+station__start_station_id_7044,station,1.1463467314318931,3.1466762323672337,station 7044 (Church St / Alexander St),Church St / Alexander St
+station__start_station_id_7246,station,1.1460348909816935,3.145695124416823,station 7246 (Yonge St / Bloor St),Yonge St / Bloor St
+station__start_station_id_7852,station,-1.1446796641101735,0.31832587266131884,station 7852 (York Recreation Centre),York Recreation Centre
+station__start_station_id_7203,station,1.1417139639556138,3.1321321287973043,station 7203 (Bathurst St/Queens Quay(Billy Bishop Airport)),Bathurst St/Queens Quay(Billy Bishop Airport)
+station__start_station_id_7102,station,1.1406811721165704,3.128898958179382,station 7102 (Nelson St / Duncan St),Nelson St / Duncan St
+station__start_station_id_7857,station,-1.1369251536866107,0.32080392960052334,station 7857 (nan),nan
+station__start_station_id_7391,station,1.1362004955405658,3.114910735662097,station 7391 (Yonge St / Dundas Sq),Yonge St / Dundas Sq
+station__start_station_id_7757,station,1.1329546336363063,3.104816556588066,station 7757 (nan),nan
+station__start_station_id_7888,station,-1.1321091328490664,0.3223526543621744,station 7888 (nan),nan
+station__start_station_id_7160,station,1.1315535523228748,3.100469502128499,station 7160 (King St W / Tecumseth St),King St W / Tecumseth St
+station__start_station_id_7045,station,1.1281554171361294,3.089951568419363,station 7045 (Bond St / Queen St E),Bond St / Queen St E
+station__start_station_id_7467,station,1.1270713420176433,3.0866036438354603,station 7467 (Lower Simcoe St / Bremner Blvd),Lower Simcoe St / Bremner Blvd
+station__start_station_id_7855,station,-1.1250667473112799,0.3246307984022335,station 7855 (nan),nan
+station__start_station_id_7816,station,1.122557497829109,3.0727025931065226,station 7816 (nan),nan
+station__start_station_id_7788,station,1.1187341956714771,3.060977151888078,station 7788 (nan),nan
+station__start_station_id_7175,station,1.1149358242487781,3.049372477133612,station 7175 (HTO Park (Queens Quay W)),HTO Park (Queens Quay W)
+station__start_station_id_7884,station,-1.1133008204265353,0.32847293949189177,station 7884 (nan),nan
+station__start_station_id_7252,station,1.1130685450092563,3.043683760078039,station 7252 (Robert St / Bloor St W - SMART),Robert St / Bloor St W - SMART
+station__start_station_id_7598,station,-1.1110099332676626,0.32922629652951424,station 7598 (Teddington Park Ave),Teddington Park Ave
+station__start_station_id_7885,station,-1.1105466917651516,0.3293788431440182,station 7885 (Brooklawn Ave / Kingston Rd),Brooklawn Ave / Kingston Rd
+station__start_station_id_7389,station,1.1104104124763452,3.0356039885646564,station 7389 (College Park- Gerrard Entrance),College Park- Gerrard Entrance
+station__start_station_id_7049,station,1.1098509173674602,3.0339060580167536,station 7049 (Queen St W / Portland St),Queen St W / Portland St
+station__start_station_id_7679,station,-1.109463476649172,0.329735824594742,station 7679 (York University Station (North)),York University Station (North)
+station__start_station_id_7744,station,-1.1078779851532272,0.3302590326018656,station 7744 (nan),nan
+station__start_station_id_7805,station,-1.1069610357138795,0.3305620023193777,station 7805 (nan),nan
+station__start_station_id_7590,station,-1.1063742146722089,0.33075603998503983,station 7590 (Esther Shiner Stadium),Esther Shiner Stadium
+station__start_station_id_7739,station,-1.1023109806628488,0.3321027132470242,station 7739 (Kingston Rd / Ridgemoor Ave),Kingston Rd / Ridgemoor Ave
+station__start_station_id_7785,station,-1.102278242911601,0.3321135857210084,station 7785 (nan),nan
+station__start_station_id_7891,station,-1.0958333651817578,0.3342609294244589,station 7891 (Opposite 1103 Leslie St),Opposite 1103 Leslie St
+station__start_station_id_7042,station,1.0952892948099988,2.9900475635264425,station 7042 (Sherbourne St / Wellesley St E),Sherbourne St / Wellesley St E
+station__start_station_id_7588,station,-1.0909805865905673,0.33588696591314954,station 7588 (G Ross Lord Park),G Ross Lord Park
+station__start_station_id_7778,station,-1.0869625250383532,0.33723929546904646,station 7778 (nan),nan
+station__start_station_id_7204,station,1.0862950344880218,2.9632748781010663,station 7204 (College St / Crawford St),College St / Crawford St
+station__start_station_id_7854,station,-1.085557138081879,0.33771358037495564,station 7854 (nan),nan
+station__start_station_id_7552,station,-1.0833264864416998,0.33846774255076323,station 7552 (Lake Shore Blvd W / Thirty Ninth Street),Lake Shore Blvd W / Thirty Ninth Street
+station__start_station_id_7901,station,-1.0830743318321656,0.33855309951334955,station 7901 (nan),nan
+station__start_station_id_7883,station,-1.083067223766297,0.3385555059796336,station 7883 (nan),nan
+station__start_station_id_7121,station,1.0823364599297678,2.9515677206751674,station 7121 (Jarvis St / Dundas St E),Jarvis St / Dundas St E
+station__start_station_id_7733,station,-1.0801573582262174,0.339542091699638,station 7733 (nan),nan
+station__start_station_id_7824,station,-1.0761214127006515,0.34091523418560093,station 7824 (nan),nan
+station__start_station_id_7836,station,-1.0756044849702984,0.34109150828040996,station 7836 (nan),nan
+station__start_station_id_7524,station,1.0738526165183309,2.9266330029922965,station 7524 (Lisgar Park),Lisgar Park
+station__start_station_id_7737,station,-1.072620715978273,0.34211076640546034,station 7737 (nan),nan
+station__start_station_id_7448,station,-1.0709894709412966,0.3426692883144511,station 7448 (Goodwood Park Ct / Dentonia Park),Goodwood Park Ct / Dentonia Park
+station__start_station_id_7931,station,-1.069389223676523,0.34321808289219685,station 7931 (Symes Rd / Glen Scarlett Rd - SMART),Symes Rd / Glen Scarlett Rd - SMART
+station__start_station_id_7858,station,-1.069357060088159,0.3432291221948649,station 7858 (nan),nan
+station__start_station_id_7749,station,-1.0684717442582647,0.3435331229184953,station 7749 (nan),nan
+station__start_station_id_7269,station,1.0667368749523847,2.905881756696965,station 7269 (Toronto Eaton Centre (Yonge St)),Toronto Eaton Centre (Yonge St)
+station__start_station_id_7589,station,-1.0660478537619797,0.344366819576819,station 7589 (Torresdale Ave / Antibes Dr),Torresdale Ave / Antibes Dr
+station__start_station_id_7058,station,1.066012779240477,2.903778381791907,station 7058 (Huron/ Harbord St),Huron/ Harbord St
+station__start_station_id_7271,station,1.0651492062412837,2.9012718396325883,station 7271 (Yonge St / Alexander St - SMART),Yonge St / Alexander St - SMART
+station__start_station_id_7670,station,-1.0631781418423476,0.34535647247387236,station 7670 (Yonge St / Woburn Ave - SMART),Yonge St / Woburn Ave - SMART
+station__start_station_id_7261,station,1.0590123971998509,2.883521808357792,station 7261 (Queens Quay E / Lower Sherbourne St),Queens Quay E / Lower Sherbourne St
+station__start_station_id_7123,station,1.058110060692009,2.880921074903786,station 7123 (424 Wellington St W),424 Wellington St W
+station__start_station_id_7322,station,1.0572273728787311,2.8783792429670263,station 7322 (King St W / Brant St),King St W / Brant St
+station__start_station_id_7582,station,-1.0553690939044116,0.3480639353179801,station 7582 (Alameda Ave / Vaughan Rd - SMART),Alameda Ave / Vaughan Rd - SMART
+station__start_station_id_7783,station,-1.0532176230879018,0.3488135908589369,station 7783 (nan),nan
+station__start_station_id_7514,station,1.0517004606289106,2.862514575167338,station 7514 (Humber Bay Shores Park / Marine Parade Dr),Humber Bay Shores Park / Marine Parade Dr
+station__start_station_id_7799,station,-1.0514526498873906,0.3494297811184648,station 7799 (nan),nan
+station__start_station_id_7239,station,1.051447432635952,2.8617903704754624,station 7239 (Bloor St W / Manning Ave - SMART),Bloor St W / Manning Ave - SMART
+station__start_station_id_7072,station,1.0508706457076082,2.8601402031413348,station 7072 (Fleet St / Bathurst St),Fleet St / Bathurst St
+station__start_station_id_7354,station,1.0498956333779277,2.857352890231697,station 7354 (Tommy Thompson Park (Leslie Street Spit)),Tommy Thompson Park (Leslie Street Spit)
+station__start_station_id_7059,station,1.0476862337331754,2.851046824645846,station 7059 (Front St W / Blue Jays Way),Front St W / Blue Jays Way
+station__start_station_id_7842,station,-1.0476041103240232,0.3507771665257026,station 7842 (Lake Shore Blvd W / Long Branch Ave),Lake Shore Blvd W / Long Branch Ave
+station__start_station_id_7893,station,-1.0475800763676784,0.35078559719012037,station 7893 (nan),nan
+station__start_station_id_7698,station,-1.0465436427944754,0.35114935163113986,station 7698 (nan),nan
+station__start_station_id_7567,station,-1.0454691971431258,0.3515268452868666,station 7567 (Weston Lions Park),Weston Lions Park
+station__start_station_id_7638,station,-1.042545586348432,0.3525560767693953,station 7638 (Warehouse EBS-Station),Warehouse EBS-Station
+station__start_station_id_7028,station,1.041677153697396,2.8339660274271483,station 7028 (Gould St / Mutual St),Gould St / Mutual St
+station__start_station_id_7872,station,-1.0392680369058758,0.35371349244972805,station 7872 (nan),nan
+station__start_station_id_7779,station,-1.036186364437193,0.3548052028642052,station 7779 (nan),nan
+station__start_station_id_7903,station,-1.0360586062111756,0.35485053504322256,station 7903 (nan),nan
+station__start_station_id_7833,station,-1.0356536730017634,0.35499425490574804,station 7833 (nan),nan
+station__start_station_id_7676,station,-1.0351356355218297,0.3551782028768083,station 7676 (York University (Glendon Campus) - SMART),York University (Glendon Campus) - SMART
+station__start_station_id_7311,station,1.0327881734300268,2.808886589779415,station 7311 (Sherbourne St / Isabella St),Sherbourne St / Isabella St
+station__start_station_id_7430,station,1.0321714543103875,2.8071548297742406,station 7430 (Marilyn Bell Park Tennis Court),Marilyn Bell Park Tennis Court
+station__start_station_id_7292,station,1.029747207359145,2.800357835361798,station 7292 (Granby St / Church St - SMART),Granby St / Church St - SMART
+station__start_station_id_7245,station,1.0292589490019848,2.79899087098869,station 7245 (Tecumseth St / Queen St W - SMART),Tecumseth St / Queen St W - SMART
+station__start_station_id_7523,station,1.028565383538397,2.7970502606356256,station 7523 (Lynn Williams St / East Liberty St - SMART),Lynn Williams St / East Liberty St - SMART
+station__start_station_id_7077,station,1.0250207947536532,2.7871534181319655,station 7077 (College Park South),College Park South
+station__start_station_id_7915,station,-1.0240578766268755,0.35913465522545707,station 7915 (nan),nan
+station__start_station_id_7840,station,-1.02365789839661,0.3592783300007569,station 7840 (nan),nan
+station__start_station_id_7063,station,1.023625982661419,2.7832685727859063,station 7063 (Queen's Park / Bloor St W),Queen's Park / Bloor St W
+station__start_station_id_7747,station,-1.022262722653935,0.3597799362447094,station 7747 (nan),nan
+station__start_station_id_7707,station,1.0190430335971477,2.770542179166317,station 7707 (nan),nan
+station__start_station_id_7906,station,1.0174124303576804,2.7660282053642113,station 7906 (nan),nan
+station__start_station_id_7745,station,-1.0126878008361746,0.3632413459245049,station 7745 (nan),nan
+station__start_station_id_7865,station,-1.0123281598243818,0.3633720059036134,station 7865 (nan),nan
+station__start_station_id_7839,station,-1.0071318418581272,0.3652651167294537,station 7839 (nan),nan
+station__start_station_id_7299,station,1.0071059041322898,2.7376664696705983,station 7299 (Mill St / Parliament St),Mill St / Parliament St
+station__start_station_id_7126,station,1.0038763715084695,2.728839347904668,station 7126 (Yonge St / Yorkville Ave),Yonge St / Yorkville Ave
+station__start_station_id_7398,station,1.0033169333598346,2.7273131580161816,station 7398 (York St / Lakeshore St W - South),York St / Lakeshore St W - South
+station__start_station_id_7257,station,1.0017730274416945,2.7231056918925822,station 7257 (Dundas St W / St. Patrick St),Dundas St W / St. Patrick St
+station__start_station_id_7889,station,-0.9990689225007445,0.368222124949377,station 7889 (nan),nan
+station__start_station_id_7321,station,0.999016992503445,2.715611049956631,station 7321 (Front St W / University Ave (2)),Front St W / University Ave (2)
+station__start_station_id_7536,station,0.9960647993128258,2.707605863748747,station 7536 (Palmerston Ave / Dundas St W),Palmerston Ave / Dundas St W
+station__start_station_id_7819,station,-0.9959745363645789,0.36936331111257814,station 7819 (nan),nan
+station__start_station_id_7533,station,0.9915107130201227,2.695303227894004,station 7533 (Housey St / Dan Leckie Way),Housey St / Dan Leckie Way
+station__start_station_id_7721,station,0.9898731526108427,2.6908931179332507,station 7721 (nan),nan
+station__start_station_id_7694,station,-0.9879033636714799,0.37235656948634593,station 7694 (nan),nan
+station__start_station_id_7018,station,0.9875638064141498,2.6846860839992988,station 7018 (Bremner Blvd / Rees St),Bremner Blvd / Rees St
+station__start_station_id_7770,station,0.9871858577715003,2.6836716022609854,station 7770 (nan),nan
+station__start_station_id_7543,station,0.9857584012443553,2.6798435105828706,station 7543 (Nassau St / Bellevue Ave),Nassau St / Bellevue Ave
+station__start_station_id_7796,station,0.9788372096107829,2.661359838401826,station 7796 (nan),nan
+station__start_station_id_7591,station,-0.9787744372565327,0.3757713481259354,station 7591 (Elwood Blvd / Avenue Rd),Elwood Blvd / Avenue Rd
+station__start_station_id_7897,station,-0.9769309456739608,0.37646471835790435,station 7897 (nan),nan
+station__start_station_id_7896,station,-0.9763681755583772,0.37667664107726123,station 7896 (nan),nan
+station__start_station_id_7732,station,-0.9759482586254696,0.37683484719146876,station 7732 (nan),nan
+station__start_station_id_7604,station,-0.9752809793305722,0.3770863851963133,station 7604 (St Columba Pl / St Clair Ave E),St Columba Pl / St Clair Ave E
+station__start_station_id_7769,station,-0.9716409455572201,0.3784614935760405,station 7769 (nan),nan
+station__start_station_id_7630,station,-0.9705473801187487,0.378875592366002,station 7630 (Twelfth St / Thirteenth St),Twelfth St / Thirteenth St
+station__start_station_id_7569,station,0.9685824732486338,2.6342077515817204,station 7569 (Toronto Inukshuk Park),Toronto Inukshuk Park
+station__start_station_id_7632,station,-0.9675148790959235,0.38002627683147094,station 7632 (Chiltern Hill Rd / Eglinton Ave W),Chiltern Hill Rd / Eglinton Ave W
+station__start_station_id_7409,station,0.9661175641346688,2.6277226647450886,station 7409 (Isabella St / Church St),Isabella St / Church St
+station__start_station_id_7114,station,0.9614759781160386,2.6155541264690343,station 7114 (Carlton St / Parliament St),Carlton St / Parliament St
+station__start_station_id_7754,station,-0.9609153415665602,0.3825425685555461,station 7754 (nan),nan
+station__start_station_id_7845,station,-0.9581621792035351,0.38359722150677333,station 7845 (nan),nan
+station__start_station_id_7755,station,-0.9576656018566214,0.3837877545005816,station 7755 (nan),nan
+station__start_station_id_7065,station,0.9567478002230875,2.603216511474306,station 7065 (Dundas St E / Parliament St),Dundas St E / Parliament St
+station__start_station_id_7505,station,0.954422366107381,2.597169936169013,station 7505 (Ontario St / Adelaide St E -SMART),Ontario St / Adelaide St E -SMART
+station__start_station_id_7333,station,0.9535201713283755,2.5948278396848847,station 7333 (King St E / Victoria St),King St E / Victoria St
+station__start_station_id_7104,station,0.9523519809621496,2.591798356651517,station 7104 (King St E / River St),King St E / River St
+station__start_station_id_7850,station,0.9519910061717126,2.5908629516218444,station 7850 (nan),nan
+station__start_station_id_7079,station,0.9496875322319211,2.5849018346058648,station 7079 (McGill St / Church St),McGill St / Church St
+station__start_station_id_7664,station,-0.9494430191105204,0.38695649081377353,station 7664 (Sunnybrook Health Centre - L Wing),Sunnybrook Health Centre - L Wing
+station__start_station_id_7663,station,-0.9481703886395896,0.3874492569229839,station 7663 (Kilgour Rd / Rumsey Rd),Kilgour Rd / Rumsey Rd
+station__start_station_id_7602,station,-0.947967048592326,0.3875280488837079,station 7602 (Woodbine Ave / O'Connor Dr),Woodbine Ave / O'Connor Dr
+station__start_station_id_7041,station,0.9424407212699606,2.5662372506936864,station 7041 (Edward St / Yonge St),Edward St / Yonge St
+station__start_station_id_7073,station,0.9420436279391355,2.5652184172954824,station 7073 (Spadina Ave / Fort York Blvd),Spadina Ave / Fort York Blvd
+station__start_station_id_7444,station,-0.9407472960802677,0.39033602975448617,station 7444 (Clendenan Ave / Rowland St - SMART),Clendenan Ave / Rowland St - SMART
+station__start_station_id_7240,station,0.9390388167799897,2.5575219893167342,station 7240 (Bloor St W / Shaw Ave - SMART),Bloor St W / Shaw Ave - SMART
+station__start_station_id_7933,station,0.9389816932980538,2.5573758989282123,station 7933 (Elizabeth St / Elm St),Elizabeth St / Elm St
+station__start_station_id_7782,station,-0.9317892405675161,0.39384839004897404,station 7782 (nan),nan
+station__start_station_id_7164,station,0.9307058957772062,2.5362989085510628,station 7164 (Gould St / Yonge St (Ryerson University)),Gould St / Yonge St (Ryerson University)
+station__start_station_id_7562,station,-0.9286349883148057,0.39509264854146314,station 7562 (Priscilla  Ave / Dundas St W),Priscilla  Ave / Dundas St W
+station__start_station_id_7052,station,0.9269271415765081,2.5267329434941557,station 7052 (Wellington St W / Bay St),Wellington St W / Bay St
+station__start_station_id_7171,station,0.9267606176137405,2.5263122169430483,station 7171 (Ontario Place Blvd / Lake Shore Blvd W (East)),Ontario Place Blvd / Lake Shore Blvd W (East)
+station__start_station_id_7021,station,0.9254150982226427,2.5229153006880174,station 7021 (Bay St / Albert St),Bay St / Albert St
+station__start_station_id_7503,station,-0.9214630768054309,0.39793640344472175,station 7503 (Gerrard St E / Malvern Ave - SMART),Gerrard St E / Malvern Ave - SMART
+station__start_station_id_7029,station,0.920328001079449,2.510113574888244,station 7029 (Bay St / Bloor St W (East Side)),Bay St / Bloor St W (East Side)
+station__start_station_id_7328,station,-0.9149643553794821,0.40053090260840596,station 7328 (Roxborough St W / Yonge St),Roxborough St W / Yonge St
+station__start_station_id_7776,station,-0.9136861771421696,0.40104317981253407,station 7776 (nan),nan
+station__start_station_id_7501,station,-0.9055119405280145,0.40433483671950654,station 7501 (Humberside Grounds - SMART),Humberside Grounds - SMART
+station__start_station_id_7014,station,0.905234782359411,2.472512357201853,station 7014 (Sherbourne St / Carlton St (Allan Gardens)),Sherbourne St / Carlton St (Allan Gardens)
+station__start_station_id_7400,station,0.9035611784725582,2.4683778116713384,station 7400 (Polson Pier),Polson Pier
+station__start_station_id_7068,station,-0.9005828829966026,0.4063327462521315,station 7068 (Blantyre Park),Blantyre Park
+station__start_station_id_7034,station,0.8999719375490308,2.4595340896337,station 7034 (Church St / Bloor St E),Church St / Bloor St E
+station__start_station_id_7617,station,-0.899298198542332,0.4068550910667939,station 7617 (Starspray Ave / Lawrence Ave E),Starspray Ave / Lawrence Ave E
+station__start_station_id_7153,station,0.8981088042673524,2.454955916012041,station 7153 (Bloor St W / Christie St),Bloor St W / Christie St
+station__start_station_id_7773,station,-0.8964831170951154,0.40800203489808134,station 7773 (nan),nan
+station__start_station_id_7046,station,0.8963927056503945,2.4507465824087062,station 7046 (Niagara St / Richmond St W),Niagara St / Richmond St W
+station__start_station_id_7032,station,0.8937458572364494,2.4442684048631285,station 7032 (Augusta Ave / Dundas St W),Augusta Ave / Dundas St W
+station__start_station_id_7548,station,0.8935212510865074,2.443719468796803,station 7548 (St Joseph St / Bay St - SMART),St Joseph St / Bay St - SMART
+station__start_station_id_7618,station,-0.8862445764416498,0.41220083845033056,station 7618 (Vaughan Rd / Oakwood Ave),Vaughan Rd / Oakwood Ave
+station__start_station_id_7890,station,-0.88545658067295,0.4125257789759496,station 7890 (nan),nan
+station__start_station_id_7572,station,-0.8820011516075588,0.41395369815879185,station 7572 (Cosburn Ave / Durant Ave),Cosburn Ave / Durant Ave
+station__start_station_id_7024,station,0.8787374366426998,2.4078577135482213,station 7024 (Dundonald St / Church St),Dundonald St / Church St
+station__start_station_id_7713,station,0.8782994515285111,2.406803338629717,station 7713 (nan),nan
+station__start_station_id_7190,station,0.8769008011768209,2.403439415318337,station 7190 (St. George St / Hoskin Ave),St. George St / Hoskin Ave
+station__start_station_id_7636,station,-0.8759696610960868,0.4164580007079852,station 7636 (Bloor St W / Riverside Ave),Bloor St W / Riverside Ave
+station__start_station_id_7772,station,0.8748348722892921,2.3984792058849904,station 7772 (nan),nan
+station__start_station_id_7874,station,-0.8747262470562799,0.41697615250490633,station 7874 (nan),nan
+station__start_station_id_7895,station,-0.8745882311007243,0.417033705838586,station 7895 (nan),nan
+station__start_station_id_7583,station,-0.8741923453705598,0.41719883621594844,station 7583 (Eglinton Ave W / Scarlett Rd),Eglinton Ave W / Scarlett Rd
+station__start_station_id_7586,station,-0.8727051308730868,0.4178197619839524,station 7586 (Finch West Subway Station),Finch West Subway Station
+station__start_station_id_7555,station,-0.8717779460043149,0.41820733779458563,station 7555 (Royal York Rd / Mimico Ave),Royal York Rd / Mimico Ave
+station__start_station_id_7250,station,0.8701488774704766,2.3872662372280598,station 7250 (St. George St / Russell St - SMART),St. George St / Russell St - SMART
+station__start_station_id_7037,station,0.8665187090026717,2.378615769436865,station 7037 (Bathurst St / Dundas St W),Bathurst St / Dundas St W
+station__start_station_id_7605,station,-0.8664706707625099,0.42043277953663655,station 7605 (Lumsden Ave / Eastdale Ave),Lumsden Ave / Eastdale Ave
+station__start_station_id_7766,station,0.8663506986523546,2.3782161709374536,station 7766 (nan),nan
+station__start_station_id_7216,station,0.8638229740331403,2.372212286652185,station 7216 (Wellington St W / Stafford St),Wellington St W / Stafford St
+station__start_station_id_7026,station,0.8633445454703098,2.3710776239863103,station 7026 (Bay St / St. Joseph St),Bay St / St. Joseph St
+station__start_station_id_7301,station,-0.8621968870876565,0.4222334634120445,station 7301 (Primrose Ave / Davenport Rd),Primrose Ave / Davenport Rd
+station__start_station_id_7615,station,-0.8613828545835781,0.42257731510981306,station 7615 (Colonel Danforth Park),Colonel Danforth Park
+station__start_station_id_7558,station,-0.8557365089913437,0.4249700815063374,station 7558 (Berry Rd / Bell Manor Dr),Berry Rd / Bell Manor Dr
+station__start_station_id_7603,station,-0.8533145874447753,0.4260005730845498,station 7603 (O'Connor Dr / Curity Ave - Smart),O'Connor Dr / Curity Ave - Smart
+station__start_station_id_7519,station,-0.8521195856648357,0.4265099488194791,station 7519 (406 Oakwood Ave),406 Oakwood Ave
+station__start_station_id_7846,station,-0.8511499452985518,0.42692371065014434,station 7846 (nan),nan
+station__start_station_id_7553,station,-0.850314492555766,0.42728053426904816,station 7553 (Lake Shore Blvd W / Twenty Fourth St),Lake Shore Blvd W / Twenty Fourth St
+station__start_station_id_7264,station,0.8500898029617866,2.3398569685772364,station 7264 (Bloor St E / Huntley St - SMART),Bloor St E / Huntley St - SMART
+station__start_station_id_7315,station,-0.849803918970709,0.4274987481256301,station 7315 (Queen St E / Hammersmith Ave),Queen St E / Hammersmith Ave
+station__start_station_id_7189,station,0.8483585071660832,2.3358094887483847,station 7189 (Augusta Ave / Denison Sq),Augusta Ave / Denison Sq
+station__start_station_id_7108,station,0.8461172355051563,2.3305801674897366,station 7108 (Front St E / Cherry St),Front St E / Cherry St
+station__start_station_id_7347,station,-0.8458933699250015,0.42917377595178924,station 7347 (Regal Rd / Dufferin St),Regal Rd / Dufferin St
+station__start_station_id_7746,station,-0.8454799342810366,0.42935124837240707,station 7746 (nan),nan
+station__start_station_id_7668,station,0.842593477114208,2.3223822183475455,station 7668 (Simcoe St / Dundas St W - SMART),Simcoe St / Dundas St W - SMART
+station__start_station_id_7023,station,0.8422843456883943,2.3216644079756916,station 7023 (College St / Borden St),College St / Borden St
+station__start_station_id_7273,station,0.8420200022545838,2.3210507723427805,station 7273 (Bay St / Charles St - SMART),Bay St / Charles St - SMART
+station__start_station_id_7534,station,0.8386266777893039,2.313188041914311,station 7534 (Walnut Ave / Queen St W),Walnut Ave / Queen St W
+station__start_station_id_7054,station,0.8359099253932122,2.3069122115574334,station 7054 (Navy Wharf Ct. / Bremner Blvd.),Navy Wharf Ct. / Bremner Blvd.
+station__start_station_id_7013,station,0.8355718388280671,2.3061324073598257,station 7013 (Scott St / The Esplanade),Scott St / The Esplanade
+station__start_station_id_7946,station,0.8289425087829878,2.2908948576816983,station 7946 (nan),nan
+station__start_station_id_7593,station,-0.8281884605860106,0.43683992270841987,station 7593 (Roehampton St / Bayview Ave),Roehampton St / Bayview Ave
+station__start_station_id_7449,station,-0.8271195232608267,0.4373071268684292,station 7449 (Cosburn Ave / Cedarvale Ave),Cosburn Ave / Cedarvale Ave
+station__start_station_id_7474,station,0.8265797703080758,2.2854884617244604,station 7474 (Clarence Square),Clarence Square
+station__start_station_id_7912,station,0.826408437477442,2.285096916060203,station 7912 (nan),nan
+station__start_station_id_7272,station,0.8250420157843686,2.281976642353655,station 7272 (Yonge St / Dundonald St - SMART),Yonge St / Dundonald St - SMART
+station__start_station_id_7502,station,0.8250315974073195,2.2819528679844225,station 7502 (University Ave / College St (East)),University Ave / College St (East)
+station__start_station_id_7475,station,0.8247420338175875,2.2812921931786705,station 7475 (Jarvis St / Richmond St E),Jarvis St / Richmond St E
+station__start_station_id_7643,station,-0.8247208760806388,0.43835733140671546,station 7643 (Oriole Pkwy / Kilbarry Rd),Oriole Pkwy / Kilbarry Rd
+station__start_station_id_7545,station,0.82424265387477,2.2801532460210434,station 7545 (Baldwin St / Henry St),Baldwin St / Henry St
+station__start_station_id_7055,station,0.8241462013845915,2.279933330168362,station 7055 (Jarvis St / Carlton St),Jarvis St / Carlton St
+station__start_station_id_7163,station,0.823558062272929,2.2785928064507632,station 7163 (Yonge St / Wood St),Yonge St / Wood St
+station__start_station_id_7176,station,0.8225156874439246,2.2762188961308967,station 7176 (Bathurst St / Fort York Blvd),Bathurst St / Fort York Blvd
+station__start_station_id_7810,station,0.8192457419430289,2.268787940423848,station 7810 (nan),nan
+station__start_station_id_7012,station,0.8183189900534491,2.266686310907985,station 7012 (Elizabeth St / Edward St (Bus Terminal)),Elizabeth St / Edward St (Bus Terminal)
+station__start_station_id_7609,station,-0.817433602866964,0.4415634287112671,station 7609 (Sunnybrook Park),Sunnybrook Park
+station__start_station_id_7025,station,0.8163585499957502,2.2622469612271376,station 7025 (Ted Rogers Way / Bloor St E),Ted Rogers Way / Bloor St E
+station__start_station_id_7235,station,0.8159569479725415,2.2613386206784205,station 7235 (Bay St / College St (West Side) - SMART),Bay St / College St (West Side) - SMART
+station__start_station_id_7606,station,-0.8158396197541348,0.4422678346162892,station 7606 (Dawes Rd / Taylor Creek Trl),Dawes Rd / Taylor Creek Trl
+station__start_station_id_7793,station,-0.8157613773046558,0.44230244008878616,station 7793 (2 Church St),2 Church St
+station__start_station_id_7452,station,0.8140582543402657,2.257049104965659,station 7452 (Bleecker St / St James Ave),Bleecker St / St James Ave
+station__start_station_id_7375,station,0.8125589747048848,2.253667692681224,station 7375 (Front St E / Scott St),Front St E / Scott St
+station__start_station_id_7485,station,-0.8076225236362914,0.4459169640140507,station 7485 (Blythwood Rd / Yonge St - SMART),Blythwood Rd / Yonge St - SMART
+station__start_station_id_7202,station,0.8071998490403958,2.2416223095000505,station 7202 (Queen St W / York St (City Hall)),Queen St W / York St (City Hall)
+station__start_station_id_7371,station,-0.8066197367731519,0.4463643479654996,station 7371 (Eglinton Ave W / Henning Ave SMART),Eglinton Ave W / Henning Ave SMART
+station__start_station_id_7750,station,-0.8018569724727383,0.448495346841369,station 7750 (nan),nan
+station__start_station_id_7791,station,0.794610676626617,2.213579030967652,station 7791 (nan),nan
+station__start_station_id_7101,station,0.7942159824408342,2.212705516591221,station 7101 (Lower Sherbourne St / The Esplanade),Lower Sherbourne St / The Esplanade
+station__start_station_id_7208,station,0.7916033362828617,2.206932045327436,station 7208 (80 Clinton St (North of College)),80 Clinton St (North of College)
+station__start_station_id_7945,station,0.7890843357628406,2.2013797783752045,station 7945 (nan),nan
+station__start_station_id_7341,station,-0.7876150114585064,0.4549285017187451,station 7341 (Eastern Ave / Winnifred Ave),Eastern Ave / Winnifred Ave
+station__start_station_id_7626,station,-0.7868366283130518,0.45528274824874815,station 7626 (Rouge Hill GO Station),Rouge Hill GO Station
+station__start_station_id_7832,station,-0.7863558900589525,0.45550167270072595,station 7832 (nan),nan
+station__start_station_id_7009,station,0.7848392272402243,2.19205448975182,station 7009 (King St E / Jarvis St),King St E / Jarvis St
+station__start_station_id_7457,station,0.7847281574455145,2.1918110322302895,station 7457 (Queen's Park Cres W / Hoskin Ave),Queen's Park Cres W / Hoskin Ave
+station__start_station_id_7843,station,-0.7837556359449803,0.4566876340312795,station 7843 (nan),nan
+station__start_station_id_7148,station,0.7806179056371927,2.1828206260453222,station 7148 (King St W / Joe Shuster Way),King St W / Joe Shuster Way
+station__start_station_id_7061,station,0.7780588570859267,2.1772418233425603,station 7061 (Dalton Rd / Bloor St W),Dalton Rd / Bloor St W
+station__start_station_id_7455,station,-0.7775048403575383,0.45955123564911293,station 7455 (E.T. Seton Park (Eglinton Ave E / Leslie St)),E.T. Seton Park (Eglinton Ave E / Leslie St)
+station__start_station_id_7427,station,0.7764965603796304,2.1738429813043187,station 7427 (Northern Dancer Blvd / Lake Shore Blvd E),Northern Dancer Blvd / Lake Shore Blvd E
+station__start_station_id_7817,station,0.7760473773048906,2.1728667471003296,station 7817 (nan),nan
+station__start_station_id_7667,station,0.7744757410214756,2.1694544730108163,station 7667 (Spadina Ave / Sussex Ave - SMART),Spadina Ave / Sussex Ave - SMART
+station__start_station_id_7283,station,0.7729030139133373,2.166045194786111,station 7283 (Front St W / Bay St (South Side)),Front St W / Bay St (South Side)
+station__start_station_id_7074,station,0.7721355088812658,2.16438338200583,station 7074 (King St E / Church St),King St E / Church St
+station__start_station_id_7161,station,0.7719054233970245,2.1638854460934067,station 7161 (Beverley St / College St),Beverley St / College St
+station__start_station_id_7395,station,-0.7715979668168431,0.4622737796290075,station 7395 (Dentonia Park),Dentonia Park
+station__start_station_id_7748,station,-0.7700015736033196,0.46301233971290007,station 7748 (nan),nan
+station__start_station_id_7625,station,-0.7695467730449347,0.46322296587635836,station 7625 (Yonge St / Lawrence Ave),Yonge St / Lawrence Ave
+station__start_station_id_7385,station,0.766581105111442,2.1523948481900894,station 7385 (20 Charles St E),20 Charles St E
+station__start_station_id_7549,station,0.7655310552145279,2.1501359124068316,station 7549 (439 Sherbourne St),439 Sherbourne St
+station__start_station_id_7331,station,-0.7628455842443053,0.46633753442822456,station 7331 (Coxwell Ave / Plains Rd),Coxwell Ave / Plains Rd
+station__start_station_id_7458,station,0.758794259024343,2.135699566941043,station 7458 (Church St / Lombard St),Church St / Lombard St
+station__start_station_id_7650,station,-0.7582197943699641,0.4684997109045258,station 7650 (St Clair W Subway - Heath Entrance),St Clair W Subway - Heath Entrance
+station__start_station_id_7075,station,0.7575764407478108,2.13310025604065,station 7075 (Queens Quay W / Dan Leckie Way),Queens Quay W / Dan Leckie Way
+station__start_station_id_7099,station,0.7564091644013593,2.1306117912127815,station 7099 (Cherry St / Mill St),Cherry St / Mill St
+station__start_station_id_7930,station,-0.7557408388025854,0.46966254157848697,station 7930 (Dunn Ave / Queen St W),Dunn Ave / Queen St W
+station__start_station_id_7035,station,0.7550036307790053,2.1276192482565723,station 7035 (Queen St W / Ossington Ave),Queen St W / Ossington Ave
+station__start_station_id_7566,station,-0.7546978486035862,0.47015265055118827,station 7566 (Weston Rd / St Clair Ave W - SMART),Weston Rd / St Clair Ave W - SMART
+station__start_station_id_7926,station,-0.7537643670451675,0.4705917342865199,station 7926 (McRae Dr / Laird Dr - SMART),McRae Dr / Laird Dr - SMART
+station__start_station_id_7619,station,-0.752262946478966,0.4712988210791584,station 7619 (Braemar Ave / Eglinton Ave W),Braemar Ave / Eglinton Ave W
+station__start_station_id_7256,station,0.751956162974387,2.1211452667325092,station 7256 (Vanauley St / Queen St W - SMART),Vanauley St / Queen St W - SMART
+station__start_station_id_7751,station,-0.7516357589596634,0.47159450653302176,station 7751 (nan),nan
+station__start_station_id_7356,station,0.7515240932770582,2.1202289821027875,station 7356 (King St E / Ontario St.),King St E / Ontario St.
+station__start_station_id_7684,station,0.7514648993524662,2.120103481142787,station 7684 (nan),nan
+station__start_station_id_7717,station,0.7511462423878885,2.1194280030315134,station 7717 (nan),nan
+station__start_station_id_7629,station,-0.7507738893713624,0.4720011347012674,station 7629 (Lundy Ave / Etienne Brule Park),Lundy Ave / Etienne Brule Park
+station__start_station_id_7777,station,-0.7499030550594368,0.47241234850819236,station 7777 (nan),nan
+station__start_station_id_7614,station,-0.7486128414675551,0.47302225471124004,station 7614 (Morningside Park (Highland Creek Trail)),Morningside Park (Highland Creek Trail)
+station__start_station_id_7907,station,0.748052573762033,2.112881326958363,station 7907 (nan),nan
+station__start_station_id_7599,station,0.7456837496236162,2.107882206026263,station 7599 (Richmond St W / York St),Richmond St W / York St
+station__start_station_id_7425,station,-0.7453973090076895,0.47454572119078564,station 7425 (The Queensway at South Kingsway),The Queensway at South Kingsway
+station__start_station_id_7595,station,-0.745356637536482,0.47456502205591633,station 7595 (Moore Park),Moore Park
+station__start_station_id_7366,station,0.744804273964397,2.1060291898942927,station 7366 (Fort York Blvd / Bathurst St SMART),Fort York Blvd / Bathurst St SMART
+station__start_station_id_7584,station,-0.7442939836757659,0.4750695884509976,station 7584 (The Pond Rd / Sentinel Rd),The Pond Rd / Sentinel Rd
+station__start_station_id_7184,station,0.7439830827823004,2.1043004472055884,station 7184 (Ossington Ave / College St),Ossington Ave / College St
+station__start_station_id_7242,station,0.7433581007435263,2.102985708108856,station 7242 (Lake Shore Blvd W / Ontario Dr),Lake Shore Blvd W / Ontario Dr
+station__start_station_id_7557,station,-0.7384428845015574,0.47785741570101675,station 7557 (The Queensway / High St),The Queensway / High St
+station__start_station_id_7607,station,-0.7372527061453965,0.47842648983719943,station 7607 (Fairmount Park),Fairmount Park
+station__start_station_id_7206,station,0.7369585140295327,2.0895704405802795,station 7206 (Claremont St / Dundas St W),Claremont St / Dundas St W
+station__start_station_id_7527,station,-0.7368288354543745,0.47862932378869666,station 7527 (Joseph J Piccininni Community Centre),Joseph J Piccininni Community Centre
+station__start_station_id_7441,station,-0.7339027640540088,0.4800318783510973,station 7441 (Pacific Ave / Glenlake Ave),Pacific Ave / Glenlake Ave
+station__start_station_id_7319,station,-0.729398116985796,0.4821991302321826,station 7319 (Lake Shore Blvd E / Knox Ave),Lake Shore Blvd E / Knox Ave
+station__start_station_id_7841,station,-0.7283264358275233,0.48271617095650393,station 7841 (nan),nan
+station__start_station_id_7844,station,-0.7278997601806333,0.4829221781370092,station 7844 (nan),nan
+station__start_station_id_7704,station,-0.7234763458384583,0.48506307457109415,station 7704 (nan),nan
+station__start_station_id_7823,station,-0.7214659642614942,0.48603921732081007,station 7823 (nan),nan
+station__start_station_id_7259,station,0.7198741708861479,2.0541747193967272,station 7259 (Lower Spadina Ave / Lake Shore Blvd),Lower Spadina Ave / Lake Shore Blvd
+station__start_station_id_7266,station,-0.7190846262766043,0.4871980201741794,station 7266 (Victoria Park Subway Station - SMART),Victoria Park Subway Station - SMART
+station__start_station_id_7909,station,-0.7155834980070745,0.48890675243542736,station 7909 (nan),nan
+station__start_station_id_7765,station,-0.7114362863390461,0.4909385624847246,station 7765 (nan),nan
+station__start_station_id_7211,station,0.7090371985822189,2.0320338714179766,station 7211 (Fort York Blvd / Garrison Rd),Fort York Blvd / Garrison Rd
+station__start_station_id_7762,station,0.7057052039143726,2.0252744128871507,station 7762 (nan),nan
+station__start_station_id_7910,station,-0.7056600869321602,0.49378252726472466,station 7910 (nan),nan
+station__start_station_id_7718,station,0.704171593527052,2.022170811476349,station 7718 (nan),nan
+station__start_station_id_7286,station,0.7040597550252456,2.0219446675684307,station 7286 (Gerrard St E / Broadview - SMART),Gerrard St E / Broadview - SMART
+station__start_station_id_7504,station,-0.7013828848578014,0.49589905810293833,station 7504 (Gerrard St E / Victoria Park Ave - SMART),Gerrard St E / Victoria Park Ave - SMART
+station__start_station_id_7731,station,-0.7012919461087229,0.4959441565935205,station 7731 (nan),nan
+station__start_station_id_7411,station,0.7006349521324711,2.015031750068795,station 7411 (Little Norway Park),Little Norway Park
+station__start_station_id_7057,station,0.7001328952884456,2.0140203435007837,station 7057 (Simcoe St / Wellington St South),Simcoe St / Wellington St South
+station__start_station_id_7517,station,-0.6981429943604341,0.4975083222610774,station 7517 (Ripley Ave / Ormskirk Ave),Ripley Ave / Ormskirk Ave
+station__start_station_id_7182,station,-0.6976352998890198,0.4977609686139235,station 7182 (Sterling Rd / Dundas St W),Sterling Rd / Dundas St W
+station__start_station_id_7191,station,0.6971026467647335,2.007926598771585,station 7191 (Central Tech  (Harbord St)),Central Tech  (Harbord St)
+station__start_station_id_7416,station,0.6963148337547783,2.0063453510195965,station 7416 (Spadina Ave / Blue Jays Way),Spadina Ave / Blue Jays Way
+station__start_station_id_7798,station,0.6943451385873911,2.002397351731563,station 7798 (nan),nan
+station__start_station_id_7790,station,0.6924304350243058,1.9985670225301693,station 7790 (nan),nan
+station__start_station_id_7576,station,0.6917674326041785,1.9972424069176458,station 7576 (Front St E / Bayview Avenue),Front St E / Bayview Avenue
+station__start_station_id_7699,station,-0.691547355570807,0.5008005526959259,station 7699 (nan),nan
+station__start_station_id_7827,station,-0.6899068568668906,0.5016227896084361,station 7827 (nan),nan
+station__start_station_id_7741,station,-0.6893144478849237,0.5019200434938018,station 7741 (nan),nan
+station__start_station_id_7685,station,0.6882781335029085,1.990285575074124,station 7685 (nan),nan
+station__start_station_id_7951,station,0.6881363147975784,1.990003335364538,station 7951 (nan),nan
+station__start_station_id_7570,station,0.6870948687707066,1.9879319331115062,station 7570 (Carlaw Ave / Dundas St E),Carlaw Ave / Dundas St E
+station__start_station_id_7069,station,0.685573477762247,1.9849098108407899,station 7069 (Queen St W / Spadina Ave),Queen St W / Spadina Ave
+station__start_station_id_7929,station,0.6828608502371036,1.979532786082825,station 7929 (Spadina Ave / Bulwer St- SMART ),Spadina Ave / Bulwer St- SMART 
+station__start_station_id_7768,station,0.6826380969270532,1.9790918877099808,station 7768 (nan),nan
+station__start_station_id_7453,station,0.6811057397876555,1.976061534510973,station 7453 (Jarvis St / Maitland Pl),Jarvis St / Maitland Pl
+station__start_station_id_7585,station,-0.6804804950660588,0.5063736238737385,station 7585 (Sentinel Rd / Finch Hydro Corridor),Sentinel Rd / Finch Hydro Corridor
+station__start_station_id_7686,station,0.6800260970579552,1.973929245304189,station 7686 (nan),nan
+station__start_station_id_7162,station,0.6774292629687736,1.968809928435492,station 7162 (Hayter St / Laplante Ave),Hayter St / Laplante Ave
+station__start_station_id_7671,station,-0.6767569245830336,0.5082626565435069,station 7671 (Yonge St / Montgomery Ave - SMART),Yonge St / Montgomery Ave - SMART
+station__start_station_id_7484,station,-0.6758850386225724,0.508705996860988,station 7484 (Briar Hill Ave / Yonge St - SMART),Briar Hill Ave / Yonge St - SMART
+station__start_station_id_7665,station,-0.675197168298343,0.5090560409986711,station 7665 (Sunnybrook Health Centre - S Wing),Sunnybrook Health Centre - S Wing
+station__start_station_id_7373,station,0.674532392725359,1.9631147945535343,station 7373 (George St / King St E),George St / King St E
+station__start_station_id_7447,station,-0.6744220265816611,0.5094507845435077,station 7447 (Trent Ave / Danforth Ave),Trent Ave / Danforth Ave
+station__start_station_id_7551,station,-0.6725233817144087,0.510418969489541,station 7551 (The Esplanade / Hahn Pl),The Esplanade / Hahn Pl
+station__start_station_id_7894,station,-0.6717818857809891,0.51079758343276,station 7894 (Millwood Rd / Southvale Dr),Millwood Rd / Southvale Dr
+station__start_station_id_7724,station,0.6709898655001777,1.956172710468579,station 7724 (nan),nan
+station__start_station_id_7222,station,0.6709775873792081,1.9561486924908507,station 7222 (Sunnyside - Gus Ryder Pool),Sunnyside - Gus Ryder Pool
+station__start_station_id_7938,station,0.6678085685307606,1.9499594325344403,station 7938 (nan),nan
+station__start_station_id_7197,station,0.6675926670402426,1.9495384788304075,station 7197 (Queen St W / Dovercourt Rd),Queen St W / Dovercourt Rd
+station__start_station_id_7279,station,-0.6669044892727356,0.5132950313535237,station 7279 (Rosehill Ave / Avoca Ave - SMART),Rosehill Ave / Avoca Ave - SMART
+station__start_station_id_7335,station,0.6659401773009158,1.9463195468562478,station 7335 (Bay St / Bloor St W (West Side)),Bay St / Bloor St W (West Side)
+station__start_station_id_7383,station,0.6657782110140508,1.9460043342337887,station 7383 (12 Harbour St),12 Harbour St
+station__start_station_id_7623,station,-0.6602583117759856,0.5167178429475273,station 7623 (Royal York Rd / Lake Shore Blvd W),Royal York Rd / Lake Shore Blvd W
+station__start_station_id_7696,station,-0.6596312059039671,0.5170419813649464,station 7696 (nan),nan
+station__start_station_id_7941,station,0.6540998823280139,1.9234104422280511,station 7941 (nan),nan
+station__start_station_id_7492,station,0.6491436655952084,1.913901187639086,station 7492 (324 Cherry St),324 Cherry St
+station__start_station_id_7155,station,0.6476256293865582,1.9109980204504402,station 7155 (Bathurst St / Lennox St),Bathurst St / Lennox St
+station__start_station_id_7538,station,-0.6466161688852458,0.5238152836715665,station 7538 (Vaughan Rd /Wychwood Ave),Vaughan Rd /Wychwood Ave
+station__start_station_id_7289,station,0.6463339484821264,1.9085312143051902,station 7289 (Humber Bay Shores Park East),Humber Bay Shores Park East
+station__start_station_id_7575,station,0.6436897846352225,1.9034914110367938,station 7575 (Bayview Ave / Lawren Harris Square),Bayview Ave / Lawren Harris Square
+station__start_station_id_7111,station,0.6430037987210346,1.9021860905079808,station 7111 (King St W / Douro St),King St W / Douro St
+station__start_station_id_7712,station,0.6393064893395533,1.8951661055553215,station 7712 (nan),nan
+station__start_station_id_7487,station,-0.6392049906735734,0.5277117931169912,station 7487 (Eastwood Rd / Woodbine Ave - SMART),Eastwood Rd / Woodbine Ave - SMART
+station__start_station_id_7020,station,0.6381378514096403,1.8929526361849296,station 7020 (Phoebe St / Spadina Ave),Phoebe St / Spadina Ave
+station__start_station_id_7899,station,0.634430617240377,1.8859480094095187,station 7899 (nan),nan
+station__start_station_id_7925,station,0.6337279311497657,1.8846232454767953,station 7925 (nan),nan
+station__start_station_id_7473,station,0.6305991509978714,1.8787358885979646,station 7473 (Adelaide St W / Strachan Ave),Adelaide St W / Strachan Ave
+station__start_station_id_7554,station,-0.6298412616646988,0.5326763504532257,station 7554 (Humber College),Humber College
+station__start_station_id_7715,station,-0.6289110221204663,0.5331720976047475,station 7715 (nan),nan
+station__start_station_id_7135,station,0.6287773690518342,1.8753163572407436,station 7135 (Hanna Ave / Liberty St),Hanna Ave / Liberty St
+station__start_station_id_7787,station,0.6265644309948324,1.871170986720669,station 7787 (nan),nan
+station__start_station_id_7288,station,0.6264972754876003,1.871045331503205,station 7288 (Humber Bay Shores Park West),Humber Bay Shores Park West
+station__start_station_id_7417,station,0.6241465011498744,1.8666520919337428,station 7417 (King St W / Jordan St),King St W / Jordan St
+station__start_station_id_7564,station,-0.6234541692456445,0.5360894919548835,station 7564 (Durie St / Dundas St W),Durie St / Dundas St W
+station__start_station_id_7355,station,-0.6226384725051115,0.5365269568011737,station 7355 (Beltline Trail / Chaplin Cres.),Beltline Trail / Chaplin Cres.
+station__start_station_id_7380,station,-0.6189906874734351,0.5384876657515104,station 7380 (Erskine Ave / Yonge St SMART),Erskine Ave / Yonge St SMART
+station__start_station_id_7115,station,0.6177803758689221,1.8548064961400217,station 7115 (Howard St / Sherbourne St),Howard St / Sherbourne St
+station__start_station_id_7384,station,0.616328419980752,1.852115353109803,station 7384 (Cumberland Ave / Bay St SMART),Cumberland Ave / Bay St SMART
+station__start_station_id_7506,station,0.6159728928288094,1.8514569928526508,station 7506 (Berkeley St / Adelaide St E - SMART),Berkeley St / Adelaide St E - SMART
+station__start_station_id_7821,station,0.6155385854779103,1.8506530660590759,station 7821 (nan),nan
+station__start_station_id_7048,station,0.6149926109130172,1.8496429323353187,station 7048 (Front St W / Yonge St (Hockey Hall of Fame)),Front St W / Yonge St (Hockey Hall of Fame)
+station__start_station_id_7913,station,0.6135729448854244,1.8470189201522955,station 7913 (nan),nan
+station__start_station_id_7276,station,0.6126016794508714,1.8452258454348927,station 7276 (Bloor St W / Balmuto St),Bloor St W / Balmuto St
+station__start_station_id_7174,station,0.6122500663058357,1.84457715382301,station 7174 (Bloor St W / Dundas St W),Bloor St W / Dundas St W
+station__start_station_id_7559,station,-0.6120044352694065,0.5422628482268286,station 7559 (Swansea Community Centre),Swansea Community Centre
+station__start_station_id_7404,station,-0.61175502927252,0.5423981086997505,station 7404 (Roehampton Ave / Mount Pleasant Rd),Roehampton Ave / Mount Pleasant Rd
+station__start_station_id_7053,station,0.6094550313123618,1.8394286945435778,station 7053 (Metro Hall Plaza),Metro Hall Plaza
+station__start_station_id_7386,station,0.6092604706949252,1.839070848973493,station 7386 (D'Arcy St. /McCaul St. SMART),D'Arcy St. /McCaul St. SMART
+station__start_station_id_7937,station,0.608689476841162,1.8380210505648362,station 7937 (nan),nan
+station__start_station_id_7608,station,-0.6077680673490139,0.5445649459850816,station 7608 (Wilket Creek Park),Wilket Creek Park
+station__start_station_id_7280,station,0.6069833763794067,1.8348878755174474,station 7280 (Charles St E / Jarvis St - SMART),Charles St E / Jarvis St - SMART
+station__start_station_id_7284,station,0.6062148456579382,1.833478249554473,station 7284 (University Ave / King St W - SMART),University Ave / King St W - SMART
+station__start_station_id_7794,station,0.6037533982132854,1.828970788916803,station 7794 (nan),nan
+station__start_station_id_7565,station,-0.6034030704797739,0.5469471656777471,station 7565 (St Clair Ave W / Gunns Rd),St Clair Ave W / Gunns Rd
+station__start_station_id_7948,station,0.6025583906224428,1.826786460345173,station 7948 (nan),nan
+station__start_station_id_7719,station,0.6024100461060031,1.8265154866902993,station 7719 (nan),nan
+station__start_station_id_7594,station,-0.6018993107797742,0.5477702614975789,station 7594 (Fleming Cres / Bayview Ave),Fleming Cres / Bayview Ave
+station__start_station_id_7359,station,-0.6006028572939021,0.5484808807053955,station 7359 (Rosedale Park (20 Schofield Ave)),Rosedale Park (20 Schofield Ave)
+station__start_station_id_7442,station,-0.5993898011500924,0.5491466225169578,station 7442 (Lonsdale Rd / Spadina Rd),Lonsdale Rd / Spadina Rd
+station__start_station_id_7118,station,0.5970920523609176,1.8168278709281165,station 7118 (King St W / Bay St (East Side)),King St W / Bay St (East Side)
+station__start_station_id_7792,station,0.592028704761124,1.8076518900829923,station 7792 (Riverdale Park South (Broadview Ave)),Riverdale Park South (Broadview Ave)
+station__start_station_id_7270,station,0.5914367214534182,1.8065821070160213,station 7270 (Church St / Dundas St E - SMART),Church St / Dundas St E - SMART
+station__start_station_id_7700,station,-0.5889541973526758,0.5549073049168233,station 7700 (nan),nan
+station__start_station_id_7531,station,0.5885001668808514,1.801284761847274,station 7531 (541 Huron St - SMART),541 Huron St - SMART
+station__start_station_id_7529,station,-0.5884505275584119,0.5551868653620924,station 7529 (Symington Ave / Davenport Rd),Symington Ave / Davenport Rd
+station__start_station_id_7488,station,-0.588124972675127,0.5553676385814521,station 7488 (Summerhill Ave / Maclennan Ave),Summerhill Ave / Maclennan Ave
+station__start_station_id_7323,station,0.5881026976960193,1.8005689489275447,station 7323 (457 King St. W. at Spadina),457 King St. W. at Spadina
+station__start_station_id_7658,station,-0.5874871026010713,0.5557220039857302,station 7658 (Kings Mill Park),Kings Mill Park
+station__start_station_id_7478,station,-0.5858967372515982,0.5566065081607761,station 7478 (Ellis Ave / The Queensway),Ellis Ave / The Queensway
+station__start_station_id_7150,station,0.585385897316686,1.7956838015140297,station 7150 (Dufferin St / Sylvan Av (Dufferin Grove Park)),Dufferin St / Sylvan Av (Dufferin Grove Park)
+station__start_station_id_7934,station,-0.5847623015637482,0.5572383007439933,station 7934 (19 Glendora Ave),19 Glendora Ave
+station__start_station_id_7205,station,0.5836933061842985,1.7926470137800088,station 7205 (Rusholme Park Cres / College St),Rusholme Park Cres / College St
+station__start_station_id_7096,station,-0.5807053989215005,0.5595035541279818,station 7096 (Lower Don River Trail and Taylor Creek Trail),Lower Don River Trail and Taylor Creek Trail
+station__start_station_id_7158,station,0.5796227016522475,1.7853646885100385,station 7158 (King St W / Stafford St),King St W / Stafford St
+station__start_station_id_7489,station,0.5771093379570676,1.7808830520696501,station 7489 (Sumach St  / Queen St E),Sumach St  / Queen St E
+station__start_station_id_7761,station,0.5759453000444207,1.7788112427452902,station 7761 (nan),nan
+station__start_station_id_7479,station,-0.5759411558625955,0.5621755249573739,station 7479 (Jane St / Bloor St W (Jane Subway Station)),Jane St / Bloor St W (Jane Subway Station)
+station__start_station_id_7716,station,0.5751028417788624,1.7773132995768686,station 7716 (nan),nan
+station__start_station_id_7103,station,0.573563275376045,1.7745791130045148,station 7103 (Jimmie Simpson Park (Queen St E)),Jimmie Simpson Park (Queen St E)
+station__start_station_id_7008,station,0.5733712604637078,1.7742384000637252,station 7008 (Wellesley St / Queen's Park Cres),Wellesley St / Queen's Park Cres
+station__start_station_id_7316,station,-0.572807885803762,0.5639397351276572,station 7316 (Queen St. E / Spruce Hill Rd.),Queen St. E / Spruce Hill Rd.
+station__start_station_id_7170,station,0.5706458363069614,1.7694094313514606,station 7170 (Spadina Ave / Willcocks St),Spadina Ave / Willcocks St
+station__start_station_id_7407,station,0.5688776775321832,1.7662835988377148,station 7407 (University Ave / Queen St W),University Ave / Queen St W
+station__start_station_id_7226,station,0.5662060443240998,1.7615710348444389,station 7226 (Lake Shore Blvd W / The Boulevard Club),Lake Shore Blvd W / The Boulevard Club
+station__start_station_id_7647,station,0.565872572181424,1.760983697912669,station 7647 (Elm St/ University Ave (East Side)),Elm St/ University Ave (East Side)
+station__start_station_id_7924,station,0.5605902132708068,1.7517060754234868,station 7924 (nan),nan
+station__start_station_id_7112,station,0.5605751349730477,1.7516796628768236,station 7112 (Liberty St / Fraser Ave Green P),Liberty St / Fraser Ave Green P
+station__start_station_id_7031,station,0.5605501396681615,1.7516358796567768,station 7031 (Jarvis St / Isabella St),Jarvis St / Isabella St
+station__start_station_id_7518,station,0.5575950115335602,1.7464672119862552,station 7518 (Lake Shore Blvd W / Colborne Lodge Dr),Lake Shore Blvd W / Colborne Lodge Dr
+station__start_station_id_7887,station,0.5571936165110019,1.745766329415101,station 7887 (nan),nan
+station__start_station_id_7563,station,-0.5568382376701235,0.5730179492753634,station 7563 (St Clair Ave W / Castleton Ave),St Clair Ave W / Castleton Ave
+station__start_station_id_7320,station,0.556345105526604,1.7442856557811584,station 7320 (Front St W / University Ave (1)),Front St W / University Ave (1)
+station__start_station_id_7173,station,-0.5513939284482938,0.5761461438834856,station 7173 (Cariboo St / Rail Path),Cariboo St / Rail Path
+station__start_station_id_7097,station,0.5513805487958067,1.7356475107108378,station 7097 (Riverdale Park North (Broadview Ave)),Riverdale Park North (Broadview Ave)
+station__start_station_id_7368,station,0.5498647241745268,1.7330185664928084,station 7368 (Lisgar St / Dundas St SMART),Lisgar St / Dundas St SMART
+station__start_station_id_7291,station,0.5436660075398464,1.7223093016167683,station 7291 (190 Queens Quay E),190 Queens Quay E
+station__start_station_id_7660,station,0.5430570284093846,1.7212607704950733,station 7660 (285 Victoria St),285 Victoria St
+station__start_station_id_7387,station,-0.5426776789400631,0.5811899269299556,station 7387 (Mortimer Ave / Carlaw Ave SMART),Mortimer Ave / Carlaw Ave SMART
+station__start_station_id_7640,station,-0.5409713674328265,0.5821824645385233,station 7640 (Spadina Rd / St.Clair Ave West),Spadina Rd / St.Clair Ave West
+station__start_station_id_7468,station,0.5398244859310634,1.7157057052675642,station 7468 (Front St / Simcoe St),Front St / Simcoe St
+station__start_station_id_7710,station,0.5319759075506157,1.7022925604753822,station 7710 (nan),nan
+station__start_station_id_7130,station,0.5297078630847442,1.6984360602644433,station 7130 (Davenport Rd / Bedford Rd),Davenport Rd / Bedford Rd
+station__start_station_id_7642,station,0.5275133703166947,1.6947129412861839,station 7642 (Yonge St / St Clair Ave),Yonge St / St Clair Ave
+station__start_station_id_7358,station,0.5271482691128563,1.694094312489091,station 7358 (Gailbraith Rd / King’s College Cr. (U of T)),Gailbraith Rd / King’s College Cr. (U of T)
+station__start_station_id_7131,station,0.5270723699980909,1.6939657371098844,station 7131 (Taddle Creek Park),Taddle Creek Park
+station__start_station_id_7954,station,0.5245703355530915,1.6897326743297383,station 7954 (nan),nan
+station__start_station_id_7277,station,-0.5242003399750558,0.5920285967315252,station 7277 (Chorley Park - SMART),Chorley Park - SMART
+station__start_station_id_7486,station,-0.5214996071027963,0.5936296688849542,station 7486 (Gerrard St E / Ted Reeve Dr),Gerrard St E / Ted Reeve Dr
+station__start_station_id_7169,station,0.5207649538165793,1.683314815417514,station 7169 (Front St W / Bay St (North Side)),Front St W / Bay St (North Side)
+station__start_station_id_7955,station,0.517138926995611,1.677222123556321,station 7955 (nan),nan
+station__start_station_id_7437,station,0.5169277924284681,1.6768680413700712,station 7437 (Concord Ave / Bloor St W),Concord Ave / Bloor St W
+station__start_station_id_7010,station,0.5166034771400821,1.6763242956049473,station 7010 (King St W / Spadina Ave),King St W / Spadina Ave
+station__start_station_id_7337,station,0.5163201149299318,1.6758493559407703,station 7337 (Gerrard Square Mall (1010 Gerrard St E)),Gerrard Square Mall (1010 Gerrard St E)
+station__start_station_id_7107,station,0.5157492965437829,1.6748930232880814,station 7107 (Cherry St / Distillery Ln),Cherry St / Distillery Ln
+station__start_station_id_7579,station,-0.5147648892256335,0.5976410899610599,station 7579 (Glebe Rd W / Yonge St),Glebe Rd W / Yonge St
+station__start_station_id_7124,station,0.5145876743028494,1.6729485598856624,station 7124 (Dundas St E / Broadview Ave),Dundas St E / Broadview Ave
+station__start_station_id_7220,station,0.5133470487179641,1.6708743440287461,station 7220 (Lake Shore Blvd W / Ellis Ave),Lake Shore Blvd W / Ellis Ave
+station__start_station_id_7143,station,0.5132359144707286,1.67068866298425,station 7143 (Kendal Ave / Bernard Ave),Kendal Ave / Bernard Ave
+station__start_station_id_7939,station,0.5126551661340427,1.6697186950030094,station 7939 (nan),nan
+station__start_station_id_7516,station,-0.5123543523572767,0.599083463591431,station 7516 (Superior Ave / Lake Shore Blvd W),Superior Ave / Lake Shore Blvd W
+station__start_station_id_7388,station,0.5109292602741013,1.666839403130932,station 7388 (Broadview Ave / Danforth Ave),Broadview Ave / Danforth Ave
+station__start_station_id_7172,station,0.5103714746340007,1.6659099232968622,station 7172 (Strachan Ave / Princes' Blvd),Strachan Ave / Princes' Blvd
+station__start_station_id_7637,station,-0.509664432475142,0.6006971194406898,station 7637 (Judson St / Royal York),Judson St / Royal York
+station__start_station_id_7346,station,0.5094896395838041,1.664441513078985,station 7346 (Logan Av / Gerrard St E),Logan Av / Gerrard St E
+station__start_station_id_7547,station,0.5079735134607797,1.6619199218289613,station 7547 (Orde St / McCaul St),Orde St / McCaul St
+station__start_station_id_7227,station,0.5078341846361446,1.661688384609894,station 7227 (Martin Goodman Trail (Marilyn Bell Park)),Martin Goodman Trail (Marilyn Bell Park)
+station__start_station_id_7956,station,-0.5066755407919951,0.602495223896193,station 7956 (nan),nan
+station__start_station_id_7188,station,0.5059077000829627,1.658490249173115,station 7188 (Exhibition GO (Atlantic Ave)),Exhibition GO (Atlantic Ave)
+station__start_station_id_7943,station,0.5049961057580997,1.656979067770973,station 7943 (nan),nan
+station__start_station_id_7424,station,-0.5047539725157367,0.603654072651952,station 7424 (Merton St / Mount Pleasant Rd),Merton St / Mount Pleasant Rd
+station__start_station_id_7446,station,-0.5044125189736495,0.6038602276674315,station 7446 (Orchard Park),Orchard Park
+station__start_station_id_7236,station,0.5011159417033776,1.650562174502967,station 7236 (Thompson St / Broadview Ave - SMART),Thompson St / Broadview Ave - SMART
+station__start_station_id_7460,station,-0.5010790604745164,0.6058765294376884,station 7460 (High Park Outdoor Pool),High Park Outdoor Pool
+station__start_station_id_7327,station,-0.49834958954152775,0.6075325107621241,station 7327 (Davenport Rd / Oakwood Rd - SMART),Davenport Rd / Oakwood Rd - SMART
+station__start_station_id_7940,station,-0.4884794342987437,0.6135586414590904,station 7940 (nan),nan
+station__start_station_id_7040,station,0.48817764588067575,1.6293442705624934,station 7040 (Euclid Ave / Bloor St W),Euclid Ave / Bloor St W
+station__start_station_id_7352,station,-0.48361917575368774,0.6165479536196341,station 7352 (Cosburn Ave / Donlands Ave),Cosburn Ave / Donlands Ave
+station__start_station_id_7702,station,0.48299440569863084,1.6209208370670518,station 7702 (nan),nan
+station__start_station_id_7098,station,0.4807301997465404,1.617254890255355,"station 7098 (Riverdale Park South (Broadview Ave, old))","Riverdale Park South (Broadview Ave, old)"
+station__start_station_id_7435,station,-0.4801499409277153,0.6186906178058023,station 7435 (Rushton Rd / St Clair Ave W),Rushton Rd / St Clair Ave W
+station__start_station_id_7520,station,-0.47803205760071804,0.6200023208765586,station 7520 (St Clarens Ave / Shirley Ave),St Clarens Ave / Shirley Ave
+station__start_station_id_7087,station,-0.4775177693930188,0.6203212627659281,station 7087 (Danforth Ave / Aldridge Ave),Danforth Ave / Aldridge Ave
+station__start_station_id_7465,station,-0.47584539198227827,0.6213595419885466,station 7465 (Russell Hill Rd / St Clair Ave W),Russell Hill Rd / St Clair Ave W
+station__start_station_id_7192,station,0.4753136854295985,1.6085186872315262,station 7192 (Harbord St / Clinton St),Harbord St / Clinton St
+station__start_station_id_7611,station,-0.47426804115547483,0.6223404173647662,station 7611 (Victoria Park Ave / Danforth Ave),Victoria Park Ave / Danforth Ave
+station__start_station_id_7329,station,0.47276374028644536,1.6044222778466029,station 7329 (Crawford St / Queen St W),Crawford St / Queen St W
+station__start_station_id_7577,station,0.4714200783075895,1.6022679243194202,station 7577 (Oak St / Sumach St),Oak St / Sumach St
+station__start_station_id_7784,station,-0.46383329208243645,0.6288683830675396,station 7784 (nan),nan
+station__start_station_id_7483,station,-0.46272950510447103,0.6295629030301552,station 7483 (Southwood Dr / Kingston Rd - SMART),Southwood Dr / Kingston Rd - SMART
+station__start_station_id_7675,station,0.45846567806872884,1.5816453691542642,station 7675 (1525 Dundas St),1525 Dundas St
+station__start_station_id_7942,station,-0.4580695833151197,0.6325034629883088,station 7942 (nan),nan
+station__start_station_id_7274,station,0.4577488727965279,1.5805120436502766,station 7274 (Queen's Park Cres E / Grosvenor St - SMART),Queen's Park Cres E / Grosvenor St - SMART
+station__start_station_id_7209,station,0.4577110034198683,1.5804521917776644,station 7209 (Ossington Ave / Harrison St),Ossington Ave / Harrison St
+station__start_station_id_7622,station,-0.4575472920883232,0.6328339002826844,station 7622 (Marie Curtis Park),Marie Curtis Park
+station__start_station_id_7113,station,0.4539475286199697,1.574515378312688,station 7113 (Parliament St / Aberdeen Ave),Parliament St / Aberdeen Ave
+station__start_station_id_7119,station,0.45272336833399796,1.5725890983951483,station 7119 (Sumach St / Carlton St. (Riverdale Farm)),Sumach St / Carlton St. (Riverdale Farm)
+station__start_station_id_7526,station,0.4522730839294362,1.571881145451404,station 7526 (Bartlett Parkette),Bartlett Parkette
+station__start_station_id_7137,station,-0.45039654359828096,0.6373753543860393,station 7137 (Davenport Rd / Bathurst St),Davenport Rd / Bathurst St
+station__start_station_id_7730,station,0.4488854165753777,1.5665651445159061,station 7730 (nan),nan
+station__start_station_id_7262,station,-0.448685556864584,0.6384668286444954,station 7262 (Wychwood Ave / Benson Ave - SMART),Wychwood Ave / Benson Ave - SMART
+station__start_station_id_7610,station,-0.4454204935720694,0.6405548701891034,station 7610 (Kingston Rd / Beech Ave),Kingston Rd / Beech Ave
+station__start_station_id_7367,station,0.44364899762555565,1.55838339334083,station 7367 (Alma Ave / Gladstone Ave SMART),Alma Ave / Gladstone Ave SMART
+station__start_station_id_7195,station,0.44200946007633385,1.555830458639391,station 7195 (Ulster St / Bathurst St),Ulster St / Bathurst St
+station__start_station_id_7657,station,0.4395615555294633,1.5520265918364216,station 7657 (1 Market St - SMART),1 Market St - SMART
+station__start_station_id_7477,station,-0.4382797588795472,0.6451452724902058,station 7477 (Antler St / Campbell Ave - SMART),Antler St / Campbell Ave - SMART
+station__start_station_id_7364,station,-0.43780174508979774,0.6454537345455322,station 7364 (Queen St E / Nursewood Rd (Neville Park Loop)),Queen St E / Nursewood Rd (Neville Park Loop)
+station__start_station_id_7443,station,0.43609539605688746,1.5466563326274922,station 7443 (Dundas St E / George St),Dundas St E / George St
+station__start_station_id_7892,station,-0.42990662643587807,0.6505698379118444,station 7892 (nan),nan
+station__start_station_id_7122,station,0.4298398180172333,1.5370113023107659,station 7122 (Niagara St / Tecumseth St),Niagara St / Tecumseth St
+station__start_station_id_7363,station,-0.42770180427658455,0.6520058111577393,station 7363 (Wells Hill Ave / St Clair Ave W),Wells Hill Ave / St Clair Ave W
+station__start_station_id_7147,station,-0.4231298300453023,0.6549935897439044,station 7147 (King St W / Fraser Ave),King St W / Fraser Ave
+station__start_station_id_7228,station,-0.4193582699051328,0.6574686018537079,station 7228 (Queen St W / Roncesvalles Ave),Queen St W / Roncesvalles Ave
+station__start_station_id_7627,station,0.4185664093826625,1.5197812490195028,station 7627 (Shaw St / Essex St - SMART),Shaw St / Essex St - SMART
+station__start_station_id_7953,station,-0.4147547660121445,0.6605022384433211,station 7953 (nan),nan
+station__start_station_id_7381,station,0.4134741295176325,1.5120617691232405,station 7381 (Yonge St / Orchard View Blvd),Yonge St / Orchard View Blvd
+station__start_station_id_7109,station,0.41231477905097325,1.5103097753892034,station 7109 (Seaton St / Dundas St E - SMART),Seaton St / Dundas St E - SMART
+station__start_station_id_7600,station,0.4101151868749179,1.5069913607412166,station 7600 (Russell St / Huron St - SMART),Russell St / Huron St - SMART
+station__start_station_id_7451,station,0.40888923486055123,1.505144993656857,station 7451 (Western Battery Rd / Pirandello St),Western Battery Rd / Pirandello St
+station__start_station_id_7815,station,-0.4063251742757011,0.6660935357222391,station 7815 (nan),nan
+station__start_station_id_7005,station,0.4054608301522593,1.499993583079868,station 7005 (King St W / York St),King St W / York St
+station__start_station_id_7957,station,-0.4014619123445798,0.669340812836472,station 7957 (nan),nan
+station__start_station_id_7050,station,0.40119622092646545,1.49361031734811,station 7050 (Richmond St E / Jarvis St Green P),Richmond St E / Jarvis St Green P
+station__start_station_id_7959,station,-0.39912261824490547,0.670908430695343,station 7959 (nan),nan
+station__start_station_id_7003,station,0.3973677442276661,1.4879029971932944,station 7003 (Madison Ave / Bloor St W),Madison Ave / Bloor St W
+station__start_station_id_7539,station,-0.3964652085148164,0.6726936803063215,station 7539 (Davisville Ave / Pailton Cres),Davisville Ave / Pailton Cres
+station__start_station_id_7866,station,0.3959426863826471,1.48578415944627,station 7866 (nan),nan
+station__start_station_id_7093,station,0.3944958278165014,1.4836359943280302,station 7093 (Danforth Ave / Gough Ave),Danforth Ave / Gough Ave
+station__start_station_id_7412,station,0.39308704853375437,1.4815473502407799,station 7412 (King St W / Crawford St),King St W / Crawford St
+station__start_station_id_7958,station,-0.392007410522527,0.6756991066586213,station 7958 (nan),nan
+station__start_station_id_7154,station,0.39047302384233795,1.4776796062772564,station 7154 (Bathurst Subway Station),Bathurst Subway Station
+station__start_station_id_7376,station,-0.388612230375165,0.6779971257380313,station 7376 (Frobisher Ave / Lascelles Blvd),Frobisher Ave / Lascelles Blvd
+station__start_station_id_7156,station,0.3863203077426308,1.4715559460974024,station 7156 (Salem Ave / Bloor St W),Salem Ave / Bloor St W
+station__start_station_id_7344,station,0.3860197815183448,1.4711137713909714,station 7344 (Cherry Beach),Cherry Beach
+station__start_station_id_7361,station,-0.38297486613266735,0.6818300360963031,station 7361 (Hocken Ave./Vaughan Rd.),Hocken Ave./Vaughan Rd.
+station__start_station_id_7415,station,-0.38277807962719984,0.6819642242492051,station 7415 (Keele St / Vine Ave),Keele St / Vine Ave
+station__start_station_id_7282,station,0.3812238063357619,1.4640752380595394,station 7282 (Adelaide St W / Bay St - SMART),Adelaide St W / Bay St - SMART
+station__start_station_id_7353,station,-0.38103455318239793,0.6831542840574955,station 7353 (Fulton Ave / Pape Ave),Fulton Ave / Pape Ave
+station__start_station_id_7635,station,-0.37892784498209015,0.684595007849254,station 7635 (Runnymede Rd / Annette St),Runnymede Rd / Annette St
+station__start_station_id_7129,station,0.37830447010763624,1.4598073429179257,station 7129 (Davenport Rd / Avenue Rd),Davenport Rd / Avenue Rd
+station__start_station_id_7687,station,0.3773751469078356,1.4584513402668657,station 7687 (nan),nan
+station__start_station_id_7709,station,-0.3724858370270745,0.6890194100520258,station 7709 (nan),nan
+station__start_station_id_7422,station,0.3686362056642159,1.4457615481304236,station 7422 (Tyndall Ave / King St W - SMART),Tyndall Ave / King St W - SMART
+station__start_station_id_7110,station,0.367502990329031,1.4441241169293644,station 7110 (Queen St E / Berkeley St),Queen St E / Berkeley St
+station__start_station_id_7128,station,0.36599319689845333,1.4419454329199428,station 7128 (Yonge St / Aylmer Ave),Yonge St / Aylmer Ave
+station__start_station_id_7540,station,-0.3657923701303371,0.6936468080555258,station 7540 (Alvin Ave / St Clair Ave E),Alvin Ave / St Clair Ave E
+station__start_station_id_7561,station,-0.36315877020116766,0.6954760038678183,station 7561 (Annette St / Jane St),Annette St / Jane St
+station__start_station_id_7947,station,0.35820577334238823,1.4307600024587388,station 7947 (nan),nan
+station__start_station_id_7659,station,-0.3571833606491766,0.6996441987580018,station 7659 (Amroth Ave / Danforth Ave),Amroth Ave / Danforth Ave
+station__start_station_id_7881,station,0.3566850123940102,1.4285858121513784,station 7881 (nan),nan
+station__start_station_id_7961,station,-0.3542822522876249,0.7016768894955109,station 7961 (nan),nan
+station__start_station_id_7116,station,0.35214980238160065,1.4221215449569948,station 7116 (555 Bloor St East),555 Bloor St East
+station__start_station_id_7963,station,-0.3511600754449176,0.7038710723620184,station 7963 (nan),nan
+station__start_station_id_7964,station,-0.35049230961455197,0.7043412503800605,station 7964 (nan),nan
+station__start_station_id_7952,station,0.3499423647342839,1.418985762614926,station 7952 (nan),nan
+station__start_station_id_7515,station,-0.3454155196519223,0.7079261351240279,station 7515 (Amos Waites Park),Amos Waites Park
+station__start_station_id_7864,station,0.3448498896238899,1.4117779812372309,station 7864 (nan),nan
+station__start_station_id_7804,station,-0.3437491014047168,0.7091068196371555,station 7804 (nan),nan
+station__start_station_id_7429,station,-0.34359221373053755,0.7092180784841757,station 7429 (Woodbine Subway Station),Woodbine Subway Station
+station__start_station_id_7454,station,-0.3385606892090794,0.7127955190798957,station 7454 (Pottery Rd / Lower Don River Trail),Pottery Rd / Lower Don River Trail
+station__start_station_id_7960,station,-0.33751297723225093,0.7135427148368875,station 7960 (nan),nan
+station__start_station_id_7198,station,0.33485141977446914,1.397732694354512,station 7198 (Queen St W / Cowan Ave),Queen St W / Cowan Ave
+station__start_station_id_7528,station,-0.3325413354452735,0.7170990266437812,station 7528 (Spadina Rd / Austin Terrace),Spadina Rd / Austin Terrace
+station__start_station_id_7541,station,0.3303577435028826,1.3914658272934084,station 7541 (Bellwoods Ave / Treford Pl - SMART),Bellwoods Ave / Treford Pl - SMART
+station__start_station_id_7066,station,0.3269413770608431,1.386720181184611,station 7066 (Willcocks St / St. George St),Willcocks St / St. George St
+station__start_station_id_7822,station,0.3268563189273164,1.3866022343705149,station 7822 (nan),nan
+station__start_station_id_7085,station,-0.32477621510315285,0.7226890624446952,station 7085 (Danforth Ave / Westlake Ave),Danforth Ave / Westlake Ave
+station__start_station_id_7962,station,-0.32423538937135615,0.7230800169953645,station 7962 (nan),nan
+station__start_station_id_7317,station,-0.3239814988039151,0.7232636234981781,station 7317 (Hubbard Blvd / Balsam Av),Hubbard Blvd / Balsam Av
+station__start_station_id_7802,station,0.3227957728030567,1.380983287758243,station 7802 (nan),nan
+station__start_station_id_7965,station,-0.3172429697960659,0.7281538142471753,station 7965 (nan),nan
+station__start_station_id_7780,station,-0.3151796428269021,0.7296577847076436,station 7780 (nan),nan
+station__start_station_id_7703,station,0.3147881336946382,1.3699690299308667,station 7703 (nan),nan
+station__start_station_id_7157,station,-0.3133430181459441,0.7309991235946943,station 7157 (Dufferin St / Bloor St),Dufferin St / Bloor St
+station__start_station_id_7039,station,0.3114398782234449,1.365389694301995,station 7039 (Simcoe St / Michael Sweet Ave),Simcoe St / Michael Sweet Ave
+station__start_station_id_7152,station,0.3098082586058244,1.3631637141613384,station 7152 (Ossington Ave / Bloor St W),Ossington Ave / Bloor St W
+station__start_station_id_7655,station,-0.30952961540133606,0.7337920395310077,station 7655 (Danforth Ave / Dewhurst Blvd),Danforth Ave / Dewhurst Blvd
+station__start_station_id_7641,station,-0.30870908303707584,0.7343943867369725,station 7641 (Annette St / Dundas W),Annette St / Dundas W
+station__start_station_id_7646,station,0.3078134288543663,1.3604471450754856,station 7646 (University Ave / Richmond St W),University Ave / Richmond St W
+station__start_station_id_7318,station,-0.3045342304765539,0.737466783963087,station 7318 (Hubbard Blvd. / Glen Manor Dr.),Hubbard Blvd. / Glen Manor Dr.
+station__start_station_id_7360,station,0.30164694718240026,1.3520837854433678,station 7360 (Concord Av / Dewson St),Concord Av / Dewson St
+station__start_station_id_7905,station,-0.3004631614679361,0.7404751816745105,station 7905 (nan),nan
+station__start_station_id_7459,station,-0.29851703998656137,0.7419176394757864,station 7459 (St Clair Ave W / Winona Ave),St Clair Ave W / Winona Ave
+station__start_station_id_7813,station,-0.29718309831061146,0.7429079747130783,station 7813 (nan),nan
+station__start_station_id_7181,station,-0.2968578847514632,0.7431496177503207,station 7181 (Lansdowne Ave / Whytock Ave),Lansdowne Ave / Whytock Ave
+station__start_station_id_7708,station,-0.2895561667678681,0.7485957455266034,station 7708 (nan),nan
+station__start_station_id_7480,station,-0.28456818968469505,0.7523390519520914,station 7480 (Neil McLellan Park),Neil McLellan Park
+station__start_station_id_7752,station,-0.2827636524134157,0.7536979014905557,station 7752 (nan),nan
+station__start_station_id_7580,station,-0.28076398727377594,0.7552065528059924,station 7580 (Hillsdale Ave W / Yonge St),Hillsdale Ave W / Yonge St
+station__start_station_id_7357,station,0.28025326086400226,1.323464951773957,station 7357 (Lake Shore Blvd E / Leslie St),Lake Shore Blvd E / Leslie St
+station__start_station_id_7662,station,0.27675887053584913,1.3188483195021243,station 7662 (Beaty Ave / Queen St W),Beaty Ave / Queen St W
+station__start_station_id_7326,station,-0.27574903810296186,0.7590033877915715,station 7326 (Davenport Rd / Lansdowne Ave),Davenport Rd / Lansdowne Ave
+station__start_station_id_7917,station,0.2754779965037568,1.3171601223521607,station 7917 (nan),nan
+station__start_station_id_7140,station,0.27193350980672815,1.3124997300490786,station 7140 (Macpherson Ave / Spadina Rd),Macpherson Ave / Spadina Rd
+station__start_station_id_7265,station,-0.2718325898733782,0.7619818138846708,station 7265 (Wallace Ave / Symington Ave - SMART),Wallace Ave / Symington Ave - SMART
+station__start_station_id_7334,station,0.2696514491408964,1.30950794106159,station 7334 (Simcoe St / Wellington St North),Simcoe St / Wellington St North
+station__start_station_id_7546,station,0.2668499336786335,1.3058444683505328,station 7546 (Ross St / Cecil St - SMART),Ross St / Cecil St - SMART
+station__start_station_id_7900,station,0.2651077725158654,1.3035714573837773,station 7900 (nan),nan
+station__start_station_id_7237,station,0.26410925484652664,1.3022704678889276,station 7237 (Ward Ave / Wallace Ave),Ward Ave / Wallace Ave
+station__start_station_id_7968,station,-0.26240351948978957,0.7692005736524383,station 7968 (nan),nan
+station__start_station_id_7904,station,0.2623023837981773,1.299919557618832,station 7904 (nan),nan
+station__start_station_id_7314,station,-0.261728138971586,0.7697202522051055,station 7314 (Queen St. E / Eastern Ave),Queen St. E / Eastern Ave
+station__start_station_id_7091,station,-0.2616600626802368,0.769772653688881,station 7091 (Donlands Station),Donlands Station
+station__start_station_id_7414,station,-0.25992453967022455,0.7711097718058447,station 7414 (Keele St / Annette St),Keele St / Annette St
+station__start_station_id_7234,station,0.2574431400474226,1.293618253816542,station 7234 (Roncesvalles Ave / Marmaduke St),Roncesvalles Ave / Marmaduke St
+station__start_station_id_7616,station,-0.2551928902175932,0.7747670385642639,station 7616 (Waterfront Trail (Rouge Hill)),Waterfront Trail (Rouge Hill)
+station__start_station_id_7932,station,-0.2544701294680878,0.7753272121811148,station 7932 (Boston Ave / Queen St E- SMART),Boston Ave / Queen St E- SMART
+station__start_station_id_7345,station,-0.25316387838589083,0.7763406459464584,station 7345 (Cherry Beach Sports Field (55 Unwin Ave)),Cherry Beach Sports Field (55 Unwin Ave)
+station__start_station_id_7450,station,0.2522066670323057,1.2868619617476058,station 7450 (Carlaw Ave / Danforth Ave),Carlaw Ave / Danforth Ave
+station__start_station_id_7378,station,-0.2450873839441228,0.7826361454204945,station 7378 (Yonge St / Davisville Ave),Yonge St / Davisville Ave
+station__start_station_id_7340,station,-0.24372750863707734,0.7837011569663809,station 7340 (Blake St / Boultbee Ave),Blake St / Boultbee Ave
+station__start_station_id_7556,station,-0.2432961763982866,0.7840392654542616,station 7556 (Windsor St / Newcastle St),Windsor St / Newcastle St
+station__start_station_id_7911,station,0.2417097107804973,1.2734244777588992,station 7911 (nan),nan
+station__start_station_id_7949,station,0.24168635838105734,1.2733947405890564,station 7949 (nan),nan
+station__start_station_id_7225,station,0.24165193508695462,1.2733509069018465,station 7225 (Lake Shore Blvd W / Windermere Ave),Lake Shore Blvd W / Windermere Ave
+station__start_station_id_7916,station,0.2412357477254236,1.27282106461208,station 7916 (nan),nan
+station__start_station_id_7469,station,0.2402813496507869,1.271606866145162,station 7469 (Wellington St W / York St),Wellington St W / York St
+station__start_station_id_7377,station,-0.24003897360483,0.7865972039405612,station 7377 (Balliol St / Yonge St  SMART),Balliol St / Yonge St  SMART
+station__start_station_id_7760,station,-0.23962634065956223,0.7869218468361333,station 7760 (nan),nan
+station__start_station_id_7644,station,-0.23920481829663245,0.7872536219128474,station 7644 (East Lynn Ave / Danforth Ave),East Lynn Ave / Danforth Ave
+station__start_station_id_7728,station,-0.23872061390034213,0.7876349058798101,station 7728 (nan),nan
+station__start_station_id_7967,station,-0.23798280250541953,0.7882162463218365,station 7967 (nan),nan
+station__start_station_id_7438,station,-0.23677557912964953,0.7891683739993174,station 7438 (High Park Subway),High Park Subway
+station__start_station_id_7194,station,-0.23593482266361063,0.7898321514110257,station 7194 (Mortimer Ave / Coxwell Ave),Mortimer Ave / Coxwell Ave
+station__start_station_id_7193,station,0.23300633626854733,1.2623894781406648,station 7193 (Queen St W / Gladstone Ave),Queen St W / Gladstone Ave
+station__start_station_id_7771,station,-0.23197713640765477,0.7929642531108542,station 7771 (nan),nan
+station__start_station_id_7420,station,0.23172979625555118,1.2607790155884713,station 7420 (Barton St / Howland St - SMART),Barton St / Howland St - SMART
+station__start_station_id_7820,station,-0.23110459154748017,0.7936564519375562,station 7820 (nan),nan
+station__start_station_id_7521,station,0.2233022260947911,1.2501983592126127,station 7521 (Emerson Ave / Bloor St W),Emerson Ave / Bloor St W
+station__start_station_id_7036,station,0.21904362174221012,1.2448855795809628,station 7036 (Trinity St /Front St E),Trinity St /Front St E
+station__start_station_id_7296,station,0.21780349074732577,1.2433427152633045,station 7296 (Westmoreland Ave / Fernbank Ave),Westmoreland Ave / Fernbank Ave
+station__start_station_id_7342,station,-0.21534753949187885,0.8062611838779152,station 7342 (Morse St / Eastern Ave),Morse St / Eastern Ave
+station__start_station_id_7070,station,0.21417268506692327,1.238836564898497,station 7070 (25 York St – Union Station South),25 York St – Union Station South
+station__start_station_id_7701,station,0.21284352920959565,1.2371910518359075,station 7701 (nan),nan
+station__start_station_id_7838,station,-0.2100661780854062,0.8105306048316818,station 7838 (nan),nan
+station__start_station_id_7332,station,0.208185566411645,1.2314416625583693,station 7332 (200 Bloor St. E.),200 Bloor St. E.
+station__start_station_id_7522,station,-0.20801423983952994,0.8121954710964177,station 7522 (Wallace Ave / Pauline Ave),Wallace Ave / Pauline Ave
+station__start_station_id_7680,station,-0.20644410063980384,0.8134717327354392,station 7680 (Princes Gate / Nunavut Dr),Princes Gate / Nunavut Dr
+station__start_station_id_7142,station,-0.2004421147662706,0.8183688601274497,station 7142 (Bridgeman Ave / Bathurst St),Bridgeman Ave / Bathurst St
+station__start_station_id_7348,station,-0.1996825606744784,0.8189906916712058,station 7348 (Pape Ave / Gamble Ave),Pape Ave / Gamble Ave
+station__start_station_id_7268,station,0.19706551852405457,1.2178238281118796,station 7268 (111 Bond St (North of Dundas St E)  - SMART),111 Bond St (North of Dundas St E)  - SMART
+station__start_station_id_7753,station,-0.19606083746759914,0.8219622270566772,station 7753 (nan),nan
+station__start_station_id_7183,station,-0.19564129767550242,0.8223071452669258,station 7183 (St Clarens Ave / College St),St Clarens Ave / College St
+station__start_station_id_7433,station,0.19543457905037612,1.2158392499619564,station 7433 (Dundas St E / Boulton Ave - SMART),Dundas St E / Boulton Ave - SMART
+station__start_station_id_7349,station,-0.18816364082670334,0.8284791231308204,station 7349 (Gamble Ave / Broadview Ave),Gamble Ave / Broadview Ave
+station__start_station_id_7695,station,-0.18632797510646068,0.8300013305616437,station 7695 (nan),nan
+station__start_station_id_7094,station,0.18492399247202884,1.2031269899439472,station 7094 (Chester Station),Chester Station
+station__start_station_id_7230,station,0.18354465028632974,1.201468610131516,station 7230 (Garden Ave / Roncesvalles Ave),Garden Ave / Roncesvalles Ave
+station__start_station_id_7705,station,0.18337425395108356,1.2012639017247126,station 7705 (nan),nan
+station__start_station_id_7302,station,-0.1812370755026637,0.834237557961467,station 7302 (Winona Dr / Davenport Rd),Winona Dr / Davenport Rd
+station__start_station_id_7666,station,-0.17954761157120955,0.8356481634739519,station 7666 (Dundas St W / St Helen Ave - SMART),Dundas St W / St Helen Ave - SMART
+station__start_station_id_7494,station,-0.17905841752457846,0.83605705758673,station 7494 (Davenport Rd / McAlpine St - SMART),Davenport Rd / McAlpine St - SMART
+station__start_station_id_7403,station,-0.17770713804511,0.8371875679780364,station 7403 (Lascelles Blvd / Eglinton Ave W),Lascelles Blvd / Eglinton Ave W
+station__start_station_id_7969,station,-0.17573031601345543,0.8388441756768634,station 7969 (nan),nan
+station__start_station_id_7095,station,0.17457022977764566,1.1907343644582513,station 7095 (Danforth Ave / Ellerbeck St),Danforth Ave / Ellerbeck St
+station__start_station_id_7106,station,0.17443519212834338,1.1905735813448626,station 7106 (Mill St / Tannery Rd),Mill St / Tannery Rd
+station__start_station_id_7151,station,0.1736077394547597,1.189588845519212,station 7151 (Essex St / Christie St - SMART),Essex St / Christie St - SMART
+station__start_station_id_7936,station,-0.1725862440743011,0.8414857125258666,station 7936 (nan),nan
+station__start_station_id_7229,station,-0.17096849368105355,0.8428481280952457,station 7229 (Dundas St W / Roncesvalles Green P - SMART),Dundas St W / Roncesvalles Green P - SMART
+station__start_station_id_7117,station,-0.17006241579882544,0.8436121602262266,station 7117 (640 Bloor Street E),640 Bloor Street E
+station__start_station_id_7656,station,0.16885203763751075,1.1839449466719925,station 7656 (Bloor St W / Brock Ave),Bloor St W / Brock Ave
+station__start_station_id_7350,station,-0.16869343782018262,0.8447678375640166,station 7350 (Broadview Ave / Westwood Ave),Broadview Ave / Westwood Ave
+station__start_station_id_7633,station,0.16739426214951095,1.1822202781447706,station 7633 (Noble St / Queen St W),Noble St / Queen St W
+station__start_station_id_7944,station,0.16318936373908816,1.1772595988618615,station 7944 (nan),nan
+station__start_station_id_7267,station,0.1630364970429465,1.1770796488310162,station 7267 (Dundas St E / Pembroke St - SMART),Dundas St E / Pembroke St - SMART
+station__start_station_id_7691,station,0.15976929468737003,1.1732401670270656,station 7691 (nan),nan
+station__start_station_id_7972,station,-0.15659132301562037,0.8550534280797054,station 7972 (nan),nan
+station__start_station_id_7221,station,-0.15139906282511084,0.8595046338641694,station 7221 (High Park Subway Station),High Park Subway Station
+station__start_station_id_7144,station,0.14913472031662936,1.1608293659750222,station 7144 (Palmerston Ave / Vermont Ave),Palmerston Ave / Vermont Ave
+station__start_station_id_7581,station,-0.14873122439164474,0.8618007147847612,station 7581 (High Park Ave / Dundas St W),High Park Ave / Dundas St W
+station__start_station_id_7508,station,0.1450765415723748,1.1561280587409377,station 7508 (Berkeley St / Dundas St E - SMART),Berkeley St / Dundas St E - SMART
+station__start_station_id_7970,station,-0.14221673181025202,0.8674332357361574,station 7970 (nan),nan
+station__start_station_id_7336,station,0.14182211556103966,1.1523716413208587,station 7336 (Queen St E / Alton Av),Queen St E / Alton Av
+station__start_station_id_7928,station,0.14073197090123954,1.1511160740293012,station 7928 (Simcoe St / Pullan Pl),Simcoe St / Pullan Pl
+station__start_station_id_7351,station,-0.1381783643441743,0.8709433326546071,station 7351 (Pretoria Av / Broadview Av),Pretoria Av / Broadview Av
+station__start_station_id_7090,station,0.13674286526996635,1.1465332970839301,station 7090 (Danforth Ave / Lamb Ave),Danforth Ave / Lamb Ave
+station__start_station_id_7083,station,-0.13527955750068113,0.8734716919897724,station 7083 (Danforth Ave / Barrington Ave),Danforth Ave / Barrington Ave
+station__start_station_id_7950,station,0.13522184065403012,1.1447907173054015,station 7950 (nan),nan
+station__start_station_id_7461,station,-0.13220706609168226,0.8761595533604034,station 7461 (High Park Amphitheatre),High Park Amphitheatre
+station__start_station_id_7362,station,-0.13063038298444732,0.8775420689355026,station 7362 (St Clair Ave W / Bathurst St.),St Clair Ave W / Bathurst St.
+station__start_station_id_7309,station,-0.12937362493262908,0.8786456202997283,station 7309 (Queen St. E / Rhodes Ave.),Queen St. E / Rhodes Ave.
+station__start_station_id_7496,station,0.12570983429454147,1.133953086243946,station 7496 (Sunnyside Ave / The Queensway - SMART),Sunnyside Ave / The Queensway - SMART
+station__start_station_id_7688,station,0.12409651392595347,1.1321251315676253,station 7688 (nan),nan
+station__start_station_id_7139,station,-0.12301620822876906,0.8842493303292362,station 7139 (Glen Edyth Dr / Davenport Rd),Glen Edyth Dr / Davenport Rd
+station__start_station_id_7971,station,-0.1184578269029951,0.8882892767767111,station 7971 (nan),nan
+station__start_station_id_7789,station,-0.11619849240636933,0.8902984882684489,station 7789 (nan),nan
+station__start_station_id_7898,station,-0.11532932850267265,0.8910726399615856,station 7898 (nan),nan
+station__start_station_id_7914,station,-0.11516788709237456,0.8912165075980436,station 7914 (nan),nan
+station__start_station_id_7681,station,0.11300060084251867,1.1196326056712587,station 7681 (25 Booth Ave),25 Booth Ave
+station__start_station_id_7935,station,0.1119705530455886,1.1184799243327685,station 7935 (Ramsden Park),Ramsden Park
+station__start_station_id_7867,station,-0.11030614105557182,0.8955599256642861,station 7867 (nan),nan
+station__start_station_id_7795,station,-0.10927250711579337,0.8964860853711525,station 7795 (nan),nan
+station__start_station_id_7303,station,-0.10896244005141784,0.8967640992791478,station 7303 (Queen St E / Woodward Ave),Queen St E / Woodward Ave
+station__start_station_id_7601,station,0.1073124309573169,1.1132820239180239,station 7601 (Brick Works),Brick Works
+station__start_station_id_7120,station,0.10673237754763551,1.1126364481364308,station 7120 (Gerrard St E / River St),Gerrard St E / River St
+station__start_station_id_7223,station,0.10654064691811695,1.1124231420991082,station 7223 (Parkside Dr / Bloor St W - SMART),Parkside Dr / Bloor St W - SMART
+station__start_station_id_7132,station,-0.10569897070673083,0.8996954419984898,station 7132 (Kendal Ave / Spadina Rd),Kendal Ave / Spadina Rd
+station__start_station_id_7178,station,0.1040290515463282,1.109632690992856,station 7178 (Dundas St W / Edna Ave),Dundas St W / Edna Ave
+station__start_station_id_7127,station,0.10330276087698084,1.1088270677167331,station 7127 (Bay St / Scollard St),Bay St / Scollard St
+station__start_station_id_7247,station,-0.10269455622588569,0.9024025646356855,station 7247 (Howard Park Ave / Dundas St W - SMART),Howard Park Ave / Dundas St W - SMART
+station__start_station_id_7313,station,-0.09978534366405653,0.9050316679684832,station 7313 (Coxwell Ave /  Lake Shore Blvd E),Coxwell Ave /  Lake Shore Blvd E
+station__start_station_id_7196,station,0.09794670522565688,1.1029040045221294,station 7196 (Roxton Rd / Harbord St),Roxton Rd / Harbord St
+station__start_station_id_7071,station,0.09755242031643797,1.1024692318346165,station 7071 (161 Bleecker St (South of Wellesley)),161 Bleecker St (South of Wellesley)
+station__start_station_id_7365,station,-0.09663540947832426,0.9078869527773376,station 7365 (Kew Beach Ave / Kenilworth Ave),Kew Beach Ave / Kenilworth Ave
+station__start_station_id_7133,station,0.09089681829880598,1.095155999369408,station 7133 (Summerhill Station),Summerhill Station
+station__start_station_id_7445,station,0.08952251567457017,1.093651957346701,station 7445 (Eastwood Rd / Coxwell Ave),Eastwood Rd / Coxwell Ave
+station__start_station_id_7848,station,-0.08678988498525046,0.9168697234909158,station 7848 (nan),nan
+station__start_station_id_7818,station,0.08665332259285445,1.0905185560331458,station 7818 (nan),nan
+station__start_station_id_7297,station,-0.08254920614092409,0.9207661293941652,station 7297 (Havelock St / Dufferin Park),Havelock St / Dufferin Park
+station__start_station_id_7224,station,0.08191658064484714,1.08536526558247,station 7224 (Bloor St W / High Park Ave (High Park)),Bloor St W / High Park Ave (High Park)
+station__start_station_id_7312,station,-0.0801253559025212,0.9230006355565717,station 7312 (Amelia St. / Sumach St.),Amelia St. / Sumach St.
+station__start_station_id_7466,station,0.07781440918004635,1.080922030847307,station 7466 (Glendonwynne Ave / Bloor St W),Glendonwynne Ave / Bloor St W
+station__start_station_id_7149,station,-0.07752960179628599,0.9253996304998394,station 7149 (Yarmouth Rd / Christie St),Yarmouth Rd / Christie St
+station__start_station_id_7677,station,-0.07529767105943837,0.9274673650407874,station 7677 (1303 Yonge St - SMART),1303 Yonge St - SMART
+station__start_station_id_7781,station,-0.0747397889360805,0.9279849268595612,station 7781 (nan),nan
+station__start_station_id_7233,station,0.07230535563598658,1.074983546236508,station 7233 (King / Cowan Ave - SMART),King / Cowan Ave - SMART
+station__start_station_id_7146,station,-0.07211368969780646,0.930425110048351,station 7146 (Christie St / Benson Ave (Wychwood Barns)),Christie St / Benson Ave (Wychwood Barns)
+station__start_station_id_7620,station,0.07106430989847075,1.0736502699880794,station 7620 (Eglinton Ave E / Redpath Ave),Eglinton Ave E / Redpath Ave
+station__start_station_id_7084,station,-0.06941462223331846,0.9329397822994455,station 7084 (High Park - Grenadier Cafe),High Park - Grenadier Cafe
+station__start_station_id_7263,station,0.0686397598142505,1.0710503042827375,station 7263 (Walton St / Elizabeth St - SMART),Walton St / Elizabeth St - SMART
+station__start_station_id_7086,station,-0.06592816477646721,0.9361981138769268,station 7086 (High Park - West Rd),High Park - West Rd
+station__start_station_id_7287,station,0.06538964089970514,1.0675749142051625,station 7287 (Queen St E / Pape Ave - SMART),Queen St E / Pape Ave - SMART
+station__start_station_id_7493,station,0.06534306792368419,1.0675251952220721,station 7493 (Sackville St / Eastern Ave - SMART),Sackville St / Eastern Ave - SMART
+station__start_station_id_7729,station,0.06520823794268558,1.067381270523185,station 7729 (nan),nan
+station__start_station_id_7258,station,0.06430119930455212,1.0664135534139516,station 7258 (Queen St E / Rushbrooke Ave),Queen St E / Rushbrooke Ave
+station__start_station_id_7596,station,0.06195543773392218,1.0639149332113214,station 7596 (Langford Ave / Danforth Ave - SMART),Langford Ave / Danforth Ave - SMART
+station__start_station_id_7343,station,-0.06191756215004711,0.9399603719092929,station 7343 (Alton Ave / Dundas St E (Greenwood Park)),Alton Ave / Dundas St E (Greenwood Park)
+station__start_station_id_7826,station,-0.06183014339003382,0.9400425456711787,station 7826 (nan),nan
+station__start_station_id_7243,station,0.05602069561601261,1.0576195715986603,station 7243 (Exhibition GO Station),Exhibition GO Station
+station__start_station_id_7141,station,0.055971185514533714,1.0575672100425682,station 7141 (Bridgeman Ave / Kendal Ave),Bridgeman Ave / Kendal Ave
+station__start_station_id_7410,station,0.05420834508390126,1.0557045300927292,station 7410 (Howard St / Rose Ave),Howard St / Rose Ave
+station__start_station_id_7431,station,0.05383956879845002,1.0553152830745338,station 7431 (Gerrard St E / Leslie St),Gerrard St E / Leslie St
+station__start_station_id_7105,station,-0.05088816182881287,0.9503849539042156,station 7105 (Queen St E / Sackville St),Queen St E / Sackville St
+station__start_station_id_7138,station,-0.04849116277152027,0.952665758193605,station 7138 (Davenport Rd / Christie St),Davenport Rd / Christie St
+station__start_station_id_7374,station,-0.048156380049625455,0.9529847476222842,station 7374 (Frederick St / The Esplanade),Frederick St / The Esplanade
+station__start_station_id_7428,station,-0.04805450704093403,0.9530818359910198,station 7428 (Woodbine Ave / Lake Shore Blvd E),Woodbine Ave / Lake Shore Blvd E
+station__start_station_id_7476,station,0.047313944740032955,1.0484511131288585,station 7476 (Symington Ave / Dupont St),Symington Ave / Dupont St
+station__start_station_id_7088,station,0.04603700671244013,1.0471131604555581,station 7088 (Danforth Ave / Coxwell Ave),Danforth Ave / Coxwell Ave
+station__start_station_id_7232,station,0.04589666174317055,1.0469662137030922,station 7232 (Queen St W  /  Fuller Ave - SMART),Queen St W  /  Fuller Ave - SMART
+station__start_station_id_7639,station,-0.03846971416527195,0.9622608471714966,station 7639 (135 Queens Wharf  - SMART),135 Queens Wharf  - SMART
+station__start_station_id_7706,station,-0.03795440937293201,0.9627568325783784,station 7706 (nan),nan
+station__start_station_id_7711,station,0.03581857492502394,1.0364677881860116,station 7711 (nan),nan
+station__start_station_id_7966,station,-0.03449537996735012,0.966092803056474,station 7966 (nan),nan
+station__start_station_id_7537,station,0.03368843679987092,1.0342623184464328,station 7537 (Euclid Ave / Herrick St - SMART),Euclid Ave / Herrick St - SMART
+station__start_station_id_7249,station,0.0325995179170084,1.0331367036408758,station 7249 (Dovercourt Rd / Harrison St (Green P) - SMART),Dovercourt Rd / Harrison St (Green P) - SMART
+station__start_station_id_7339,station,-0.031377103924331524,0.9691100489574969,station 7339 (Carlaw Ave / Strathcona Ave),Carlaw Ave / Strathcona Ave
+station__start_station_id_7434,station,-0.030595255300604907,0.9698680425950424,station 7434 (Via Italia / Mackay Ave),Via Italia / Mackay Ave
+station__start_station_id_7568,station,0.027154912728587343,1.0275269674410772,station 7568 (Jameson Ave / Queen St W),Jameson Ave / Queen St W
+station__start_station_id_7973,station,-0.026882533242053395,0.9734755858293854,station 7973 (nan),nan
+station__start_station_id_7231,station,0.026394791777817946,1.0267462194346952,station 7231 (Wright / Sorauren (Sorauren Park) - SMART),Wright / Sorauren (Sorauren Park) - SMART
+station__start_station_id_7530,station,-0.022805965563740753,0.977452124746238,station 7530 (Sherbourne St N / Elm Ave),Sherbourne St N / Elm Ave
+station__start_station_id_7379,station,0.016672727541340186,1.0168124931406726,station 7379 (Lawton Blvd / Yonge St),Lawton Blvd / Yonge St
+station__start_station_id_7244,station,0.011807821505658407,1.0118778090254585,station 7244 (Dufferin Gate - SMART),Dufferin Gate - SMART
+station__start_station_id_7238,station,0.010966463189758358,1.0110268152617008,station 7238 (Sorauren/Geoffrey (Sorauren Park) - SMART),Sorauren/Geoffrey (Sorauren Park) - SMART
+station__start_station_id_7654,station,0.009926271464424562,1.009975700309688,station 7654 (Bloor St W / Pacific Ave),Bloor St W / Pacific Ave
+station__start_station_id_7692,station,0.008647225537942527,1.0086847207914071,station 7692 (nan),nan
+station__start_station_id_7064,station,-0.008510235036645887,0.9915258745073715,station 7064 (51 Parliament St),51 Parliament St
+station__start_station_id_7922,station,-0.007887595236901756,0.9921434302167463,station 7922 (nan),nan
+station__start_station_id_7725,station,-0.004630221102525983,0.9953804818458255,station 7725 (nan),nan
+station__start_station_id_7338,station,0.003979519456123371,1.0039874482577922,station 7338 (Logan Ave / Bain Ave),Logan Ave / Bain Ave
+station__start_station_id_7210,station,-0.0035046603705596703,0.9965014737834622,station 7210 (Mary McCormick Rec Centre (Sheridan Ave)),Mary McCormick Rec Centre (Sheridan Ave)
+station__start_station_id_7278,station,0.002768875129046693,1.0027727120042456,station 7278 (Mallon Ave / Jones Ave -SMART),Mallon Ave / Jones Ave -SMART
+station__start_station_id_7497,station,0.0022115983583291606,1.0022140457458586,station 7497 (128 Sterling Ave - SMART),128 Sterling Ave - SMART
+station__start_station_id_7571,station,-0.0017591450583545403,0.9982424013304066,station 7571 (Highfield Rd / Gerrard St E),Highfield Rd / Gerrard St E
+station__start_station_id_7241,station,-0.0008962998576028606,0.9991041016991338,station 7241 (519 Church St),519 Church St
+station__start_station_id_7180,station,-0.0007274105080112349,0.9992728539908754,station 7180 (Lansdowne Subway Station),Lansdowne Subway Station

@@ -1,0 +1,15 @@
+.git
+.cursor
+**/node_modules
+**/__pycache__
+**/.pytest_cache
+**/.taste-skill/chrome*
+**/dist
+**/*.pyc
+web/shots
+reports/phase6/shots
+data/raw
+notebooks
+*.duckdb.wal
+.env
+**/.DS_Store

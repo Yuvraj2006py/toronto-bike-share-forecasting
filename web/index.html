@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en" data-type="software" data-radius="soft" data-motion>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="page-type" content="software" />
+    <meta name="site-kind" content="software" />
+    <title>Toronto bike demand map: next-hour departures by station</title>
+    <meta
+      name="description"
+      content="Every Bike Share Toronto station coloured by predicted departures in the next hour, with the weather and calendar the forecast used."
+    />
+    <meta property="og:title" content="Toronto bike demand map" />
+    <meta
+      property="og:description"
+      content="Next-hour bike departures for about 800 Toronto stations, from a gradient-boosted model checked against September 2024."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="theme-color" content="#0f0f0f" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wdth,wght@85..100,400..700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://tiles.openfreemap.org" crossorigin />
+    <link rel="stylesheet" href="/assets/motion/motion.css" />
+    <script>document.documentElement.classList.add('m-enter');setTimeout(()=>document.documentElement.classList.add('m-enter-done'),700)</script>
+  </head>
+  <body>
+    <a class="skip-link" href="#busiest-panel">Skip to the busiest stations list</a>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script type="module" src="/assets/motion/motion.js"></script>
+    <script src="https://mcp.figma.com/mcp/html-to-design/capture.js" async></script>
+  </body>
+</html>
